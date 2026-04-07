@@ -2,9 +2,9 @@ import os
 
 path_pwd             = os.getcwd()
 path_download        = os.path.join(path_pwd, "download")
-path_ipv4            = os.path.join(path_pwd, "rules/ipv4.txt")
+path_ipv4_china      = os.path.join(path_pwd, "rules/ipv4_china.txt")
+path_ipv6_china      = os.path.join(path_pwd, "rules/ipv6_china.txt")
 path_ipv4_cloudflare = os.path.join(path_pwd, "rules/ipv4_cloudflare.txt")
-path_ipv6            = os.path.join(path_pwd, "rules/ipv6.txt")
 path_ipv6_cloudflare = os.path.join(path_pwd, "rules/ipv6_cloudflare.txt")
 path_proxy           = os.path.join(path_pwd, "rules/proxy.txt")
 path_direct          = os.path.join(path_pwd, "rules/direct.txt")

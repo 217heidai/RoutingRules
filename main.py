@@ -6,13 +6,13 @@ from domain import RuleDomain
 
 def main():
     ruleIPv4 = RuleIP(config.url_ipv4)
-    ruleIPv4.update(config.path_download, config.path_ipv4)
+    ruleIPv4.update(config.path_download, config.path_ipv4_china)
 
     ruleIPv4_cloudflare = RuleIP(config.url_ipv4_cloudflare)
     ruleIPv4_cloudflare.update(config.path_download, config.path_ipv4_cloudflare)
 
     ruleIPv6 = RuleIP(config.url_ipv6)
-    ruleIPv6.update(config.path_download, config.path_ipv6)
+    ruleIPv6.update(config.path_download, config.path_ipv6_china)
 
     ruleIPv6_cloudflare = RuleIP(config.url_ipv6_cloudflare)
     ruleIPv6_cloudflare.update(config.path_download, config.path_ipv6_cloudflare)
