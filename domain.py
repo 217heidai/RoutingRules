@@ -101,15 +101,17 @@ class RuleDomain(object):
                         for k,v in domains_full.items():
                             for item in v:
                                 line = item + '.' + k if item != '' else k
-                                if white and line not in white:
-                                    out.write("full:" + line + "\n")
+                                if white and line in white:
+                                    continue
+                                out.write("full:" + line + "\n")
                     # domain
                     if len(domains_domain):
                         for k,v in domains_domain.items():
                             for item in v:
                                 line = item + '.' + k if item != '' else k
-                                if white and line not in white:
-                                    out.write("domain:" + line + "\n")
+                                if white and line in white:
+                                    continue
+                                out.write("domain:" + line + "\n")
                     # regexp
                     if len(domains_regexp):
                         for item in domains_regexp:
