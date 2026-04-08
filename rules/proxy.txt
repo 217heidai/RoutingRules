@@ -5812,8 +5812,7 @@ domain:crabporn.com
 domain:crackle.com
 domain:craigslist.org
 domain:crankplayer.com
-domain:firebase-settings.crashlytics.com
-domain:update.crashlytics.com
+domain:crashlytics.com
 domain:crates.io
 domain:crazy-amateurs.com
 domain:crazyav.xyz
