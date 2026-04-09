@@ -14275,7 +14275,6 @@ domain:meetandfuck.games
 domain:meetandfuckgames.com
 domain:meetfasttrack.com
 domain:meetsmartbook.com
-domain:meetup.com
 domain:meetyourdevices.com
 domain:mega.co.nz
 domain:mega.io
@@ -18196,7 +18195,6 @@ domain:pyrobot.org
 domain:python.com.tw
 domain:python.org
 domain:pythonhosted.org
-domain:pytorch.org
 domain:pzforever.skin
 domain:pzforever01.homes
 domain:pzhanfor.today
