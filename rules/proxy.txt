@@ -769,6 +769,7 @@ domain:acast.com
 domain:accbusiness.com
 domain:acces-vod.com
 domain:accessfacebookfromschool.com
+domain:accesspoint.uz
 domain:accomable.com
 domain:account-paypal.info
 domain:account-paypal.net
@@ -1377,6 +1378,7 @@ domain:alexa.com
 domain:alexanderstreet.com
 domain:alfabank.ru
 domain:alfabank.st
+domain:alfadirect.ru
 domain:alfera.com.hk
 domain:alfera.com.my
 domain:alfera.in
@@ -2942,7 +2944,6 @@ domain:banned.video
 domain:bannedbook.net
 domain:bannedbook.org
 domain:banorte.com
-domain:bansi.ru
 domain:baraero.com
 domain:baramangaonline.com
 domain:barefootnetworks.com
@@ -2979,7 +2980,6 @@ domain:battlefront2.com
 domain:battlefrontii.com
 domain:battlelog.com
 domain:battleye.com
-domain:baumi.ru
 domain:baxsound.com
 domain:bayareabmw.com
 domain:bayvoice.net
@@ -3025,6 +3025,8 @@ domain:bcicdn.com
 domain:bcove.video
 domain:bcovlive.io
 domain:bcrncdn.com
+domain:bcs-bank.ru
+domain:bcs.ru
 domain:bcvcdn.com
 domain:bcvp0rtal.com
 domain:bcy01.com
@@ -4283,11 +4285,9 @@ domain:boj.or.jp
 domain:bokep.net
 domain:bokepseks.org
 domain:bokepvidz.com
-domain:bokerama.ru
 domain:bolehvpn.net
 domain:bollywoodlife.com
 domain:boltdns.net
-domain:bonbon.am
 domain:bondagecomixxx.net
 domain:bondagesex-xxx.com
 domain:bondagesm.xyz
@@ -4507,6 +4507,7 @@ domain:broadcom.com
 domain:broadpressinc.com
 domain:brocaproject.com
 domain:brokenteens.com
+domain:broker.ru
 domain:bromite.org
 domain:bromo.com
 domain:bronto.com
@@ -4913,7 +4914,6 @@ domain:cari.com.my
 domain:caribbeancom.com
 domain:caribbeancompr.com
 domain:test-ipv6.carnet.hr
-domain:caronino.com
 domain:carousell.com.hk
 domain:carrd.co
 domain:carrot-mail.io
@@ -5753,7 +5753,6 @@ domain:contactossexoecuador.com
 domain:containersonaws.com
 domain:contechacademy.com
 domain:contentful.com
-domain:contessa.ru
 domain:contest.com
 domain:convrgencegame.com
 domain:cookiechoices.org
@@ -5835,6 +5834,7 @@ domain:cp44.net
 domain:cpan.org
 domain:cpedge.com
 domain:cpj.org
+domain:cplsb.ru
 domain:cpu-monkey.com
 domain:cpz.to
 domain:cq99.us
@@ -7682,7 +7682,6 @@ domain:epicgamescdn.com
 domain:epicreads.com
 domain:epigeum.com
 domain:epikporn.com
-domain:epilprofy.ru
 domain:epinions.com
 domain:episodic.com
 domain:htanime.epizy.com
@@ -7913,7 +7912,6 @@ domain:evropaelire.org
 domain:evschool.net
 domain:ewisdom.us.kg
 domain:eworld.com
-domain:ewotech.ru
 domain:exacttarget.com
 domain:exascale-tech.com
 domain:excedo.com
@@ -8676,7 +8674,6 @@ domain:fitgirl-repacks.site
 domain:fitnakedgirls.com
 domain:five-d.com
 domain:fivestarpornsites.com
-domain:fixgoodsport.ru
 domain:fixtracking.com
 domain:icsd.fiz-karlsruhe.de
 domain:blog.fizzik.com
@@ -8772,7 +8769,6 @@ domain:footprintdns.com
 domain:footseen.com
 domain:footstockings.com
 domain:footwear-cadcam.com
-domain:foralice.online
 domain:forbes.com
 domain:forbesimg.com
 domain:forbiddenasian.com
@@ -8986,7 +8982,6 @@ domain:foxtv.com
 domain:foxtvdvd.com
 domain:foxuv.com
 domain:foxweatherwatch.com
-domain:foxx-shop.ru
 domain:fpacebook.com
 domain:fpmt.org
 domain:fpmtmexico.org
@@ -9497,7 +9492,6 @@ domain:geotrust.com
 domain:geph.io
 domain:geraldoatlarge.com
 domain:gerritcodereview.com
-domain:gerronfox.com
 domain:gesoten.com
 domain:get.app
 domain:get.dev
@@ -9535,6 +9529,7 @@ domain:getprintersupports.com
 domain:getscorecash.com
 domain:getsession.org
 domain:getsexgames.com
+domain:getsynapse.io
 domain:getsync.com
 domain:gettr.com
 domain:gettyimages.ae
@@ -9679,6 +9674,7 @@ domain:gitstar.com
 domain:gitstar.net
 domain:gittigidiyor.net
 domain:gittigidiyorsikayet.com
+domain:gitverse.ru
 domain:givemebuzzsaw.com
 domain:gizlen.net
 domain:gizmoxxx.com
@@ -9839,7 +9835,6 @@ domain:goldvip.cyou
 domain:goldwave.com
 domain:golos-ameriki.ru
 domain:golosameriki.com
-domain:gondol.ru
 domain:gongkou-cc.sbs
 domain:gonglchuangl.net
 domain:gongm.in
@@ -10780,6 +10775,10 @@ domain:hf.space
 domain:hg.cool
 domain:hgamer.pro
 domain:hh-content.com
+domain:hh.by
+domain:hh.kz
+domain:hh.ru
+domain:hhcdn.ru
 domain:hhvm.com
 domain:hibank24.com
 domain:hibdontire.com
@@ -11641,7 +11640,6 @@ domain:iina.io
 domain:iirmll.com
 domain:ijavhd.com
 domain:ijavtorrent.com
-domain:ikakids.ru
 domain:ikanhm.xyz
 domain:ikanmh.xyz
 domain:ikea.ae
@@ -12784,10 +12782,6 @@ domain:jibunbank.co.jp
 domain:jieav.com
 domain:hk.jiepang.com
 domain:tw.jiepang.com
-domain:jieshang.online
-domain:jieshang.ru
-domain:jieshang.shop
-domain:jieshang.store
 domain:jifangge.com
 domain:jihadology.net
 domain:jiji.com
@@ -13109,7 +13103,6 @@ domain:kaspersky.ru
 domain:kaspersky.se
 domain:kastatic.org
 domain:katestube.com
-domain:katrn.ru
 domain:kavkazr.com
 domain:kawaiikawaii.jp
 domain:kawase.com
@@ -13163,7 +13156,6 @@ domain:kickporn.com
 domain:kickshatchannel.com
 domain:kicksnike1.com
 domain:kicu.tv
-domain:kiddiekorner.ru
 domain:kidgrid.tv
 domain:kidsnikeshoes.com
 domain:kidspot.com.au
@@ -13666,8 +13658,6 @@ domain:livexxx.me
 domain:livingstream.com
 domain:livingyourambition.com
 domain:livrariart.com.br
-domain:lizageld.de
-domain:lizageld.ru
 domain:lizardporn.com
 domain:lizol.co.in
 domain:ll82y2ifdd.top
@@ -13941,7 +13931,6 @@ domain:maddenrewards.com
 domain:maddenseason.info
 domain:maddenseason.net
 domain:maddenseason.org
-domain:made-in-altai.ru
 domain:madewithcode.com
 domain:madewithmaya.com
 domain:madewithstudiotools.com
@@ -13970,7 +13959,6 @@ domain:magentocommerce.com
 domain:magentoliveconference.com
 domain:magentomobile.com
 domain:magestic.com
-domain:magic-mix.ru
 domain:magicalmirai.com
 domain:magicmovies.com
 domain:mahajantech.com
@@ -14068,7 +14056,6 @@ domain:manyvoices.news
 domain:maomi-shipin.com
 domain:maomiav.one
 domain:maomiav.top
-domain:maoshop.ru
 domain:map-software.com
 domain:mapbox.com
 domain:mapguide.com
@@ -14397,7 +14384,6 @@ domain:megamarket.ru
 domain:megamarket.tech
 domain:megamon.co.kr
 domain:megaphone.fm
-domain:megapolis.llc
 domain:megapornfreehd.com
 domain:megaporno.com.br
 domain:megapornpics.com
@@ -14669,7 +14655,6 @@ domain:mimi-zhibo.com
 domain:mimi2022.link
 domain:mimi22.top
 domain:mimi222.top
-domain:mimile.ru
 domain:mimistudio.com
 domain:mimistyler.com
 domain:mimizy-go.buzz
@@ -15013,6 +14998,7 @@ domain:mizzmona.com
 domain:mji.rip
 domain:mjj.rip
 domain:mjv-art.org
+domain:mkb.ru
 domain:sci-hub.mksa.top
 domain:mkt.com
 domain:mktdns.com
@@ -15435,6 +15421,7 @@ domain:my9nj.com
 domain:myaccountglobalcash.com
 domain:myamateurgirls.net
 domain:myamateurtv.com
+domain:myapelsin.ru
 domain:myappleid.com
 domain:myatos.net
 domain:myaudiocast.com
@@ -15760,13 +15747,11 @@ domain:nejm.org
 domain:nekora.main.jp
 domain:nekoslovakia.net
 domain:nekoxxx.com
-domain:nemocoffee.ru
 domain:nenastran.com
 domain:nenitas.club
 domain:nentindo.net
 domain:neo-miracle.com
 domain:neoforged.net
-domain:neon.click
 domain:neovim.io
 domain:neow.in
 domain:neowin.net
@@ -16447,10 +16432,6 @@ domain:nutsvpn.work
 domain:nuuporn.com
 domain:nuuvem.com
 domain:nuvid.com
-domain:nuwjon.online
-domain:nuwjon.ru
-domain:nuwjon.shop
-domain:nuwjon.store
 domain:nvdst.com
 domain:nvidia.asia
 domain:nvidia.at
@@ -17034,7 +17015,6 @@ domain:paofuyun.me
 domain:paon.site
 domain:papalah.com
 domain:papermc.io
-domain:papertole.by
 domain:paradisehill.cc
 domain:paradisehotelquizfox.com
 domain:paragon.com
@@ -17082,6 +17062,7 @@ domain:pawoo.net
 domain:paxful.com
 domain:paxlicense.org
 domain:paydiant.com
+domain:payecom.ru
 domain:paygonline.com
 domain:payhulu.com
 domain:paylike.com
@@ -17354,7 +17335,6 @@ domain:peopledreamfunding.com
 domain:peoplenews.tw
 domain:peopo.org
 domain:pepabo.com
-domain:perfect-market.ru
 domain:perfect-privacy.com
 domain:perfectgirls.net
 domain:perfectgonzo.com
@@ -17579,6 +17559,7 @@ domain:plansondemand.com
 domain:plantsvszombies2.com
 domain:plasticlabs.com
 domain:plastics-cadcam.com
+domain:platiecom.ru
 domain:platinumlinks.org
 domain:play-asia.com
 domain:play-bmm.shop
@@ -17622,7 +17603,6 @@ domain:playvids.com
 domain:playwarcraft3.com
 domain:playyoungtube.com
 domain:playz.jp
-domain:pleamo.ru
 domain:pleasefuck.org
 domain:pleasurebabe.com
 domain:pleasuregirl.net
@@ -18405,7 +18385,6 @@ domain:qmov.com
 domain:qmov.net
 domain:qmp4.com
 domain:qmttqg3k.me
-domain:qnails.ru
 domain:qnap.com
 domain:qobuz.com
 domain:qombol.com
@@ -18521,6 +18500,7 @@ domain:r34porn.net
 domain:rabbitscams.com
 domain:rabbitscams.sex
 domain:rabbitsreviews.com
+domain:rabota.by
 domain:racked.com
 domain:radeon.com
 domain:radgametools.com
@@ -18825,6 +18805,7 @@ domain:resonabank.co.jp
 domain:resoubanana.buzz
 domain:resoubang.buzz
 domain:respawnbyrazer.com
+domain:restnproducts.ru
 domain:restream-media.net
 domain:rethink.net
 domain:retimer.com
@@ -19019,7 +19000,6 @@ domain:rtings.com
 domain:ruby-lang.org
 domain:rubygems.org
 domain:rude.com
-domain:rugg.ru
 domain:ruinedking.com
 domain:rukoebxx.com
 domain:rulaisc-tv.buzz
@@ -19234,11 +19214,13 @@ domain:sberauto.com
 domain:sberbank-insurance.ru
 domain:sberbank.com
 domain:sberbank.ru
+domain:sberbankaktivno.ru
 domain:sberbankins.ru
 domain:sbercloud.ru
 domain:sbercloud.tech
 domain:sberdevices.ru
 domain:sberdisk.ru
+domain:sberfactoring.ru
 domain:sberhealth.ru
 domain:sberindex.ru
 domain:sberleasing.ru
@@ -19246,12 +19228,15 @@ domain:sberlogistics.ru
 domain:sbermegamarket.ru
 domain:sbermobile.ru
 domain:sberpb.ru
+domain:sberspasibo.ru
+domain:sbertech.ru
 domain:sbertroika.ru
 domain:sbgkstv.shop
 domain:sbishinseibank.co.jp
 domain:sbitravelcard.com
 domain:sbme.me
 domain:sbnation.com
+domain:sbrf.ru
 domain:sbux.com.my
 domain:sbuxcard.com
 domain:sc-cdn.net
@@ -19451,6 +19436,7 @@ domain:sesez.com
 domain:sessoamatorialeitaliano.com
 domain:setapp.com
 domain:sethwklein.net
+domain:setka.ru
 domain:setn.com
 domain:settv.com.tw
 domain:sevenbank.co.jp
@@ -19936,7 +19922,6 @@ domain:six9dy.pw
 domain:sixte.st
 domain:sjcollect.com
 domain:sjhsp1.buzz
-domain:skandia-shoes.ru
 domain:skate2.com
 domain:skebetter.com
 domain:sketchappsources.com
@@ -20246,7 +20231,6 @@ domain:sonyprotechnosupport.co.jp
 domain:sonystoragemedia.co.jp
 domain:sonytc.co.jp
 domain:soolakhi.com
-domain:soomkosh.ru
 domain:soooyinfor.lol
 domain:nakedsecurity.sophos.com
 domain:soporn.com
@@ -20307,6 +20291,9 @@ domain:spankmonster.com
 domain:spankred3d.com
 domain:spankwire.com
 domain:sparkpool.com
+domain:spasibo.digital
+domain:spasibo.market
+domain:spasibobonus.ru
 domain:spasibosb.ru
 domain:spasibosberbank.ru
 domain:spatial.io
@@ -20893,6 +20880,7 @@ domain:szexvideo.top
 domain:szwinnertechnology.com
 domain:t-access.ru
 domain:t-bank-app.ru
+domain:t-bank-app.su
 domain:t-bank.by
 domain:t-calls.ru
 domain:t-capital-funds.ru
@@ -20958,6 +20946,7 @@ domain:takegoto.com
 domain:takens.tw
 domain:taknai.com
 domain:takporn.com
+domain:talantix.ru
 domain:talentlens.com
 domain:taleofthenight.com
 domain:talkatone.com
@@ -21109,7 +21098,6 @@ domain:tellapart.com
 domain:tellme.pw
 domain:tellmewhygame.com
 domain:temetube.xyz
-domain:temka37.ru
 domain:temp-mail.org
 domain:temu.com
 domain:tenbin.ai
@@ -21207,7 +21195,6 @@ domain:theblock.co
 domain:thebobs.com
 domain:thebodyshop-usa.com
 domain:thebondagefiles.com
-domain:thebutik.ru
 domain:thecamdude.com
 domain:thecandidbay.com
 domain:thecandidforum-voyeur.ru
@@ -21467,8 +21454,6 @@ domain:tiendabestbuy.com
 domain:tiffany-towers.com
 domain:tig-ol-bitties.live
 domain:tigervpn.com
-domain:tigrenok.toys
-domain:tigrenoktoys.ru
 domain:tik-tokapi.com
 domain:tiktok-minis.com
 domain:tiktok-row.net
@@ -21745,7 +21730,6 @@ domain:trellocdn.com
 domain:trendmicro.com
 domain:trendsmap.com
 domain:trendyporn.com
-domain:trendysocks.ru
 domain:trezor.io
 domain:triballo.net
 domain:tribler.org
@@ -22092,7 +22076,6 @@ domain:uc-japan.org
 domain:china.ucanews.com
 domain:uchicago.edu
 domain:ucla.edu
-domain:ucsan.ru
 domain:udacity.com
 domain:udemy.com
 domain:udemycdn.com
@@ -23470,7 +23453,6 @@ domain:westerndigital.com
 domain:westernwolves.com
 domain:westlaw.com
 domain:westpoint.edu
-domain:westranger.ru
 domain:wet-ass-pussy.com
 domain:wetandpuffy.com
 domain:wetchicks.org
@@ -23946,7 +23928,6 @@ domain:xboxservices.com
 domain:xboxstudios.com
 domain:xboyvids.com
 domain:xbrasilporno.com
-domain:xbs24.ru
 domain:xbtce.com
 domain:xbx.lv
 domain:xcafe.com
@@ -24059,7 +24040,6 @@ domain:xmissy.nl
 domain:xml-training-guide.com
 domain:xmoviesforyou.com
 domain:hanzhen.xmulib.org
-domain:xn----7sbbqwlovjffky5gn.xn--p1ai
 domain:xn----7sbhmncai5a0arm7c1e.xn--p1ai
 domain:xn----8sbahiqzthbd0bn.xn--p1ai
 domain:xn----8sbkfzespdwig.xn--p1ai
@@ -24084,7 +24064,6 @@ domain:xn--74q434dwff.com
 domain:xn--74q434dwff.net
 domain:xn--7hv594h.com
 domain:xn--80aafgovrgbc7am.xn--p1ai
-domain:xn--80aapfrkg0au.xn--p1ai
 domain:xn--80acbjgmges7ca.xn--p1ai
 domain:xn--80acbjgsdq2cl.xn--p1ai
 domain:xn--8uq428d76d.tokyo
@@ -24106,7 +24085,6 @@ domain:xn--d1abkf4ap.fun
 domain:xn--d1acpjx3f.xn--p1ai
 domain:xn--d4ty0ojsqzfd.com
 domain:xn--e1adjldbbpv.xn--90ais
-domain:xn--e1agcghdbe0a2b2a3c.xn--p1ai
 domain:xn--fiqs8sxootzz.xn--hxt814e
 domain:xn--flw351e
 domain:xn--flw351e.com
@@ -25065,13 +25043,13 @@ domain:za77.xyz
 domain:zakzak.co.jp
 domain:zalmos.com
 domain:zamimg.com
-domain:zanmarket.ru
 domain:zaobao.com
 domain:zaobao.com.sg
 domain:zaobao.sg
 domain:zaochenbao.com
 domain:zapper.fi
 domain:zappos
+domain:zarplata.ru
 domain:zatrahal.online
 domain:zattoo.com
 domain:zavat.pw
