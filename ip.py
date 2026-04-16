@@ -8,7 +8,7 @@ from util import Util
 
 
 class RuleIP(object):
-    def __init__(self, ip:Dict) -> None:
+    def __init__(self, ip:Dict[str, str]) -> None:
         self.__ip = ip
     
     def __merge(self, filelist: List[str], output_file:str):

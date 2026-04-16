@@ -8,10 +8,10 @@ from util import Util
 
 
 class RuleDomain(object):
-    def __init__(self, domain:Dict) -> None:
+    def __init__(self, domain:Dict[str, str]) -> None:
         self.__domain = domain
 
-    def __analysis_domain(self, domain:str) -> Tuple[str]: # fld, subdomain
+    def __analysis_domain(self, domain:str) -> Tuple[str, str]: # fld, subdomain
         try:
             res = get_tld(domain, fix_protocol=True, as_object=True)
             return res.fld, res.subdomain
