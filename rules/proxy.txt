@@ -14950,6 +14950,7 @@ domain:minilondon.ca
 domain:minilondon.co
 domain:minimarkham.ca
 domain:minimarkham.com
+domain:minimax.io
 domain:minimoncton.ca
 domain:minimoncton.com
 domain:minimontrealcentre.ca
@@ -19404,6 +19405,7 @@ domain:scnsrc.me
 domain:scolle.net
 domain:scoop.sh
 domain:scopus.com
+domain:scorecardresearch.com
 domain:scoreclassics.com
 domain:scorediscounts.club
 domain:scoregroup.com
