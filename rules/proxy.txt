@@ -11915,6 +11915,7 @@ domain:watch.impress.co.jp
 domain:improd.works
 domain:imstagram.com
 domain:imtagram.com
+domain:imtintl.com
 domain:imzog.com
 domain:inaporn.com
 domain:inasian.club
