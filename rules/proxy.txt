@@ -2391,6 +2391,7 @@ domain:asianthumbs.org
 domain:asianwifeporn.com
 domain:asianxxxvideos.cc
 domain:asiaone.com
+domain:asiasociety.org
 domain:asjmapihost.cc
 domain:ask.com
 domain:askfacebook.net
@@ -3360,6 +3361,7 @@ domain:belamionline.com
 domain:bell.wiki
 domain:bellebound.com
 domain:bellesa.co
+domain:bellingcat.com
 domain:bellotube.com
 domain:bellsouth.net
 domain:test-ipv6.belwue.net
@@ -5898,6 +5900,7 @@ domain:creatwhatsnext.com
 domain:crececonebay.com
 domain:creditcardsbay.com
 domain:creditkarma.com
+domain:crewai.com
 domain:cricketcountry.com
 domain:cristyli.com
 domain:crit-staging.com
@@ -13449,6 +13452,7 @@ domain:lamayeshe.com
 domain:lamnia.co.uk
 domain:lanasbigboobs.com
 domain:landofhope.tv
+domain:langchain.com
 domain:langsuirs.com
 domain:lanik.us
 domain:lanmdh.net
@@ -13766,6 +13770,7 @@ domain:lmebooks.com
 domain:lmm167.shop
 domain:lmmbtc.com
 domain:lms01.com
+domain:lmstudio.ai
 domain:chat.lmsys.org
 domain:lnkd.in
 domain:lnstagram-help.com
@@ -16737,6 +16742,7 @@ domain:olevod.io
 domain:olevod.tv
 domain:olevodtv.com
 domain:oli-school.com
+domain:ollama.com
 domain:olumpo.com
 domain:omafotze.com
 domain:omakase.in
@@ -18689,6 +18695,7 @@ domain:rationalwiki.org
 domain:ravm.tv
 domain:rawgit.com
 domain:rawgithub.com
+domain:rawstory.com
 domain:rayark.download
 domain:rayark.net
 domain:razer.com
@@ -18822,6 +18829,7 @@ domain:recode.net
 domain:recoiljs.org
 domain:reconinstruments.com
 domain:reconjet.com
+domain:recordedfuture.com
 domain:recoveryversion.com.tw
 domain:online.recoveryversion.org
 domain:red-lang.org
@@ -20393,7 +20401,6 @@ domain:soyinyj.top
 domain:soyjak.party
 domain:soyjak.st
 domain:blog.soylent.com
-domain:soylentnews.org
 domain:sp.cool
 domain:spaceexplored.com
 domain:spacely.com.au
@@ -21458,6 +21465,7 @@ domain:thieme-connect.com
 domain:thieme-connect.de
 domain:thieme.de
 domain:thinkboxsoftware.com
+domain:thinkchina.sg
 domain:thinkdifferent.us
 domain:thinkgeek.com
 domain:thinkingtaiwan.com
