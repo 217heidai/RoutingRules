@@ -1098,6 +1098,7 @@ domain:agedm.tv
 domain:agefans.com
 domain:agemys.org
 domain:agendaweek.com
+domain:agentclientprotocol.com
 domain:agilebits.com
 domain:agnesb.fr
 domain:agoogleaday.com
@@ -17671,6 +17672,7 @@ domain:ntp1.plala.or.jp
 domain:ntp2.plala.or.jp
 domain:planetminecraft.com
 domain:planetsuzy.org
+domain:plannotator.ai
 domain:plansondemand.com
 domain:plantsvszombies2.com
 domain:plasticlabs.com
@@ -22125,6 +22127,7 @@ domain:twister.net.co
 domain:twistys.com
 domain:twitch.tv
 domain:twitchcdn.net
+domain:twitchcon.com
 domain:twitchsvc.net
 domain:twitcomike.jp
 domain:twitiq.com
