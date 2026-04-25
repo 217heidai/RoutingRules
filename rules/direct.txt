@@ -5103,6 +5103,7 @@ domain:3663.com
 domain:366300.com
 domain:366666.net
 domain:36683.com
+domain:366999.com
 domain:3669yx.com
 domain:366club.com
 domain:366ec.com
@@ -6911,7 +6912,6 @@ domain:520xy8.com
 domain:520yidui.com
 domain:520zc.com
 domain:520zg.net
-domain:521.xn--czrs0t
 domain:5210601.com
 domain:52112.com
 domain:5211game.com
@@ -7681,6 +7681,7 @@ domain:59178.com
 domain:5918656.com
 domain:5918dyw.com
 domain:591918.com
+domain:591adb.com
 domain:591con.com
 domain:591hx.com
 domain:591master.com
@@ -28759,6 +28760,7 @@ domain:ctfo.com
 domain:ctftools.com
 domain:ctfund.com
 domain:ctgapp.com
+domain:ctgcdn.biz
 domain:ctgcdn.com
 domain:ctghealthy.com
 domain:ctghr.com
@@ -30324,6 +30326,7 @@ domain:dayishengwu.com
 domain:dayitea.com
 domain:dayiwater.com
 domain:dayong.name
+domain:dayonglaw.com
 domain:dayoo.com
 domain:dayrui.com
 domain:dayscamera.com
@@ -32216,6 +32219,7 @@ domain:dns800.com
 domain:dnsabc.com
 domain:dnsany.com
 domain:dnsapi12.com
+domain:dnsbbz.com
 domain:dnsbbzj.com
 domain:dnsbubu.com
 domain:dnsce.com
@@ -32707,6 +32711,7 @@ domain:doubaijiu.com
 domain:douban.com
 domain:douban.fm
 domain:doubanio.com
+domain:doubao-dev.com
 domain:doubao.com
 domain:doubaocdn.com
 domain:doubaozhidao.com
@@ -34880,6 +34885,7 @@ domain:ehejun.com
 domain:ehengjian.com
 domain:eheren.com
 domain:ehetech.com
+domain:ehewen.com
 domain:eheyin.com
 domain:ehijoy.com
 domain:ehinvest.hk
@@ -38006,6 +38012,7 @@ domain:flclb.com
 domain:flduo.com
 domain:fle078.com
 domain:flebm.com
+domain:fledgecloud.com
 domain:fleeper.com
 domain:fleetlogd.com
 domain:fleety.com
@@ -38090,6 +38097,7 @@ domain:flygon.net
 domain:flyhand.com
 domain:flyingeffect.com
 domain:flyingpigeon1936.com
+domain:flylinking.com
 domain:flyme.com
 domain:flyme.net
 domain:flymeauto.com
@@ -39882,6 +39890,7 @@ domain:gavill.com
 domain:gavindesign.com
 domain:gavinzh.com
 domain:gaxgame.com
+domain:gaxify.com
 domain:gaxrmyy.com
 domain:gayzyhh.com
 domain:gaze.run
@@ -49079,6 +49088,7 @@ domain:hiooq0417.com
 domain:hiosu.com
 domain:hioug.com
 domain:hiparking.com
+domain:hipc123.com
 domain:hipcam.net
 domain:hipcapi.com
 domain:hiphi.com
@@ -51023,6 +51033,7 @@ domain:htsprings.com
 domain:httdsj.com
 domain:htths.com
 domain:httingshu.com
+domain:http-dns.com
 domain:httpcanary.com
 domain:httpcn.com
 domain:httpdns.pro
@@ -51856,6 +51867,7 @@ domain:huilongtech.com
 domain:huilunbio.com
 domain:huilv8.com
 domain:huilvbiao.com
+domain:huilvhuansuanqi.com
 domain:huilvwang.com
 domain:huilvyankuang.com
 domain:huilw.com
@@ -70583,6 +70595,7 @@ domain:mingjian365.com
 domain:mingjignfang.com
 domain:mingjinglu.com
 domain:mingjiudu.com
+domain:mingjun2008.com
 domain:mingjuyoupin.com
 domain:mingkj.com
 domain:minglian.com
@@ -71157,6 +71170,7 @@ domain:mobrtb.com
 domain:mobsdks.com
 domain:mobsurl.com
 domain:mobtou.com
+domain:mobturing.com
 domain:mobvoi.com
 domain:mobwan.com
 domain:mocache.com
@@ -76673,6 +76687,7 @@ domain:ovuwork.com
 domain:ovxe.com
 domain:owalle.com
 domain:oway.mobi
+domain:owdct.com
 domain:owecn.com
 domain:oweidata.com
 domain:oweis-tech.com
@@ -81868,6 +81883,7 @@ domain:qytdesign.com
 domain:qytranslation.com
 domain:qytst.com
 domain:qytxhy.com
+domain:qyue.org
 domain:qyunapp.com
 domain:qyuner.com
 domain:qyuns.net
@@ -84184,6 +84200,7 @@ domain:sanshua.com
 domain:sansitech.com
 domain:sansky.net
 domain:santaihu.com
+domain:santainews.com
 domain:santanjob.com
 domain:santelvxing.com
 domain:santezjy.com
@@ -91429,6 +91446,7 @@ domain:suxx0.com
 domain:suyangroup.com
 domain:suyuantuliao.com
 domain:suyuening.com
+domain:suyueyun.com
 domain:suyugame.com
 domain:suyujoy.com
 domain:suyun.net
@@ -95201,6 +95219,7 @@ domain:timanetworks.com
 domain:timbrd.com
 domain:time-weekly.com
 domain:time-year.com
+domain:timecloud.us
 domain:timecoo.com
 domain:timedg.com
 domain:timedl.com
@@ -95805,6 +95824,7 @@ domain:toec-gdgs.com
 domain:toec-iot.com
 domain:toec.com
 domain:toecsec.com
+domain:toewin.com
 domain:tofeat.com
 domain:tofengmi.com
 domain:tofflon.com
@@ -103906,6 +103926,7 @@ domain:ww-77660.com
 domain:ww2bbs.net
 domain:ww8899.com
 domain:wware.org
+domain:wwchicun.com
 domain:wwejds.com
 domain:wwenglish.com
 domain:wwenglish.org
@@ -104837,8 +104858,10 @@ domain:xdn2.com
 domain:xdnice.com
 domain:xdnote.com
 domain:xdnphb.com
+domain:xdnsvip.biz
 domain:xdnsvip.com
 domain:xdnsvip.info
+domain:xdnsvip.net
 domain:xdocin.com
 domain:xdowns.com
 domain:xdpaomo.com
