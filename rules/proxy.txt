@@ -22369,6 +22369,7 @@ domain:upmedia.mg
 domain:upornia.com
 domain:uporno.xxx
 domain:uproxy.org
+domain:upsangel.com
 domain:uptodown.com
 domain:ura-akiba.jp
 domain:uraban.me
