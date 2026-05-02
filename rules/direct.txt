@@ -12184,6 +12184,7 @@ domain:aimoneshoes.com
 domain:aimoon.com
 domain:aimsen.com
 domain:aimu-app.com
+domain:aimx333.com
 domain:ainas.cc
 domain:ainb01010zh.com
 domain:ainb12251zh.com
@@ -15943,6 +15944,7 @@ domain:bazi.run
 domain:bazi.xin
 domain:bazi5.com
 domain:baziguwen.com
+domain:bazixinli.com
 domain:bazizeri.com
 domain:bb-game.com
 domain:bb-hy.com
@@ -55951,6 +55953,7 @@ domain:jiemaiyang.com
 domain:jiemeng.cc
 domain:jiemeng.tw
 domain:jiemeng8.com
+domain:jiemengjia.com
 domain:jiement.com
 domain:jiemian.com
 domain:jiemin.com
@@ -95698,6 +95701,7 @@ domain:v5.net
 domain:v50307shvkaa.art
 domain:v51124-3.qpon
 domain:v51124-3a.qpon
+domain:v51124-4.qpon
 domain:v51124-5.qpon
 domain:v51124.qpon
 domain:v5875.com
@@ -108521,10 +108525,12 @@ domain:youking.com
 domain:youkongkan.com
 domain:youkongwan.com
 domain:youku.com
+domain:youku.icu
 domain:youkua.net
 domain:youkuaiyun.com
 domain:youkud.com
 domain:youkupic.com
+domain:youkuyouku.pro
 domain:youlai.tech
 domain:youlanw.com
 domain:youle55.com
