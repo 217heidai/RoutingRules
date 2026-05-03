@@ -20237,6 +20237,7 @@ domain:softbankusa.net
 domain:softbankventuresasia.com
 domain:softbankworld.com
 domain:softether-download.com
+domain:softether.co.jp
 domain:softether.org
 domain:softfamous.com
 domain:cdn.softlayer.net
