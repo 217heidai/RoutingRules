@@ -786,6 +786,7 @@ domain:acer-group.com
 domain:acer.com
 domain:acesofthunder.net
 domain:acevpn.com
+domain:acg.mn
 domain:acg.rip
 domain:acg18.me
 domain:acgbox.org
@@ -1858,6 +1859,7 @@ domain:anypornhd.com
 domain:anypornsexxx.com
 domain:anysex.com
 domain:anyshemale.com
+domain:anythingllm.com
 domain:anyxxx.me
 domain:anyxxx.pro
 domain:ao3.org
@@ -3717,6 +3719,7 @@ domain:blacktowhite.net
 domain:blackvpn.com
 domain:blaoshi.cc
 domain:blazor.net
+domain:bleepingcomputer.com
 domain:blender.org
 domain:blink.org
 domain:blinkload.zone
@@ -4357,6 +4360,7 @@ domain:boom.ru
 domain:boomba.club
 domain:boombeach.com
 domain:boomerang.com
+domain:boomplay.com
 domain:booru.org
 domain:boosty.to
 domain:booth.pm
@@ -4788,6 +4792,7 @@ domain:calgon.tv
 domain:calgoncarbon-china.com
 domain:calgoncarbon.com
 domain:calgonit.com
+domain:calibre-ebook.com
 domain:callabitch.org
 domain:callbackkiller.com
 domain:callersbane.com
@@ -5969,6 +5974,7 @@ domain:ctee.com.tw
 domain:ctfassets.net
 domain:ctinets.com
 domain:ctinews.com
+domain:ctinsider.com
 domain:ctitv.com.tw
 domain:ctotires.com
 domain:ctowc.org
@@ -7539,6 +7545,7 @@ domain:edgefonts.net
 domain:edgekey.net
 domain:edgemeplease.com
 domain:edgesuite.net
+domain:edigest.hk
 domain:edisebay.com
 domain:editorx.com
 domain:edninfo.com
@@ -10933,6 +10940,7 @@ domain:hitbtc.com
 domain:hitomi.la
 domain:hitun.io
 domain:hitxhot.com
+domain:hive.blog
 domain:hiveon.net
 domain:hjb246.top
 domain:hjb7e9.top
@@ -11573,6 +11581,7 @@ domain:ibooksauthor.com
 domain:ibradome.com
 domain:ibvpn.com
 domain:icashpassport.com.mx
+domain:iccf.com
 domain:icedrive.net
 domain:icegay.tv
 domain:icegaytube.tv
@@ -12036,6 +12045,7 @@ domain:infoglobo.com.br
 domain:infolinker.com.tw
 domain:infoq.jp
 domain:informs.org
+domain:infosec.exchange
 domain:infotimes.com.tw
 domain:infowars.com
 domain:infowarsmedia.com
@@ -13251,6 +13261,7 @@ domain:kaspersky.ru
 domain:kaspersky.se
 domain:kastatic.org
 domain:katestube.com
+domain:kathmandupost.com
 domain:kavkazr.com
 domain:kawaiikawaii.jp
 domain:kawase.com
@@ -13607,6 +13618,7 @@ domain:leliao1.com
 domain:lematin.ch
 domain:lemmynsfw.com
 domain:lemoncams.com
+domain:lemonde.fr
 domain:lencr.org
 domain:lenkino.xxx
 domain:lenporno.net
@@ -14517,6 +14529,7 @@ domain:mediachinese.com
 domain:mediaclip.jp
 domain:mediafiles-cisco.com
 domain:mediafreakcity.com
+domain:mediamatters.org
 domain:mediasama.com
 domain:mediawiki.org
 domain:medical-reserve.co.jp
@@ -15164,6 +15177,7 @@ domain:mizuhobank.co.jp
 domain:mizzmona.com
 domain:mji.rip
 domain:mjj.rip
+domain:mjj.today
 domain:mjv-art.org
 domain:mkb.ru
 domain:sci-hub.mksa.top
@@ -16051,6 +16065,7 @@ domain:newsexwap.com
 domain:newsexxxx.com
 domain:newsfeed.com
 domain:newsgawakaru.com
+domain:newshub.co.nz
 domain:newslicensing.co.uk
 domain:newsmart.jp
 domain:newsmax.com
@@ -16063,6 +16078,7 @@ domain:newssyndication.com
 domain:newstamago.com
 domain:newstapa.org
 domain:newstatesman.com
+domain:newstimes.com
 domain:newsukadops.com
 domain:newsupermariobrosu.com
 domain:newsweek.com
@@ -16119,6 +16135,7 @@ domain:nflxsearch.net
 domain:nflxso.net
 domain:nflxvideo.net
 domain:nfsc.global
+domain:nfsc.press
 domain:nfscdict.com
 domain:nfscofficial.com
 domain:nfsworld.com
@@ -16853,6 +16870,7 @@ domain:onani-daisuki.com
 domain:onapp.com
 domain:onbeatsbydresale.com
 domain:oncars.in
+domain:ondigitalocean.com
 domain:one.one.one
 domain:one.one.one.one
 domain:one889.app
@@ -16968,6 +16986,7 @@ domain:opensea.io
 domain:opensource.guide
 domain:opensourceinsight.dev
 domain:opensourceinsights.dev
+domain:openspec.dev
 domain:openssl.org
 domain:openstreetmap.com
 domain:openstreetmap.net
@@ -17079,6 +17098,7 @@ domain:over18arcade.com
 domain:overapple.com
 domain:overcast.fm
 domain:overdaily.org
+domain:overdrive.com
 domain:overleaf.com
 domain:overplay.net
 domain:overthumbs.com
@@ -17515,6 +17535,7 @@ domain:pelvicexam.info
 domain:pemulihan.or.id
 domain:pen.io
 domain:pendrivelinux.com
+domain:penguin.com.au
 domain:penisbot.com
 domain:pensions-expert.com
 domain:blog.pentalogic.net
@@ -19200,6 +19221,7 @@ domain:rthk.org.hk
 domain:rti.org.tw
 domain:rti.tw
 domain:rtings.com
+domain:rts.ch
 domain:ruby-lang.org
 domain:rubygems.org
 domain:rude.com
@@ -20974,6 +20996,7 @@ domain:supjav.com
 domain:supplybestjerseys.com
 domain:support-uber.com
 domain:supportfacebook.com
+domain:supr.cl
 domain:supremacy.com
 domain:supremacy.net
 domain:suprememastertv.com
@@ -21380,6 +21403,7 @@ domain:tgdaily.co.kr
 domain:tgirlcentral.com
 domain:tgirlpostop.com
 domain:tgp6.com
+domain:tgstat.com
 domain:tgtube.com
 domain:tgutube.com
 domain:thai-xxx.com
@@ -21397,6 +21421,7 @@ domain:the-area.com
 domain:the-japan-news.com
 domain:the-m-festival.com
 domain:the-monster-beats.com
+domain:the-sun.com
 domain:the-tls.co.uk
 domain:the123d.com
 domain:swingers.theadulthub.com
@@ -21543,6 +21568,7 @@ domain:thetype.com
 domain:theuab.net
 domain:theverge.com
 domain:thevirtualsexreview.com
+domain:theweek.com
 domain:theweek.in
 domain:thewgo.org
 domain:thewirechina.com
@@ -22146,6 +22172,7 @@ domain:tvboxnow.com
 domain:tvbs.com.tw
 domain:tvbusa.com
 domain:tvbweekly.com
+domain:tvdy1.com
 domain:tver.co.jp
 domain:tver.jp
 domain:tvigle.ru
@@ -22198,7 +22225,8 @@ domain:twifan.com
 domain:twiffo.com
 domain:twifuli.com
 domain:twiggit.org
-domain:contests.twilio.com
+domain:twilio.com
+domain:twilio.jp
 domain:twimg.com
 domain:twimg.edgesuite.net
 domain:twinkboyfriends.tv
@@ -22276,6 +22304,7 @@ domain:typography.com
 domain:typora.io
 domain:tyre-cadcam.com
 domain:tyrecadcam.com
+domain:tytch.com
 domain:tytng189.com
 domain:tytporno.online
 domain:ntp.nc.u-tokyo.ac.jp
@@ -22487,7 +22516,9 @@ domain:userapi.ru
 domain:usercentrics.eu
 domain:usercontent.dev
 domain:usercontent.goog
+domain:userdrive.org
 domain:userpxt.io
+domain:usersdrive.com
 domain:usertrust.com
 domain:usfk.mil
 domain:usma.edu
@@ -24053,6 +24084,7 @@ domain:worldemojiday.com
 domain:worldescortindex.com
 domain:worldflipper.jp
 domain:worldhack.com
+domain:worldjournal.com
 domain:worldofslaves.io
 domain:worldoftanks.com
 domain:worldoftanks.eu
@@ -25572,6 +25604,8 @@ domain:client-teamviewer-com.trafficmanager.net
 domain:cloudaicompanion.googleapis.com
 domain:cloudcode-pa.googleapis.com
 domain:cloudsync-prod.s3.amazonaws.com
+domain:copilot-proxy.githubusercontent.com
+domain:copilotprodattachments.blob.core.windows.net
 domain:csis-prod.s3.amazonaws.com
 domain:d1g1f25tn8m2e6.cloudfront.net
 domain:d1k2us671qcoau.cloudfront.net
@@ -25639,6 +25673,11 @@ domain:foxnewsplayer-a.akamaihd.net
 domain:gamedownloads-rockstargames-com.akamaized.net
 domain:gigabyte2.azureedge.net
 domain:github-cloud.s3.amazonaws.com
+domain:github-production-release-asset-2e65be.s3.amazonaws.com
+domain:github-production-repository-file-5c1aeb.s3.amazonaws.com
+domain:github-production-repository-image-32fea6.s3.amazonaws.com
+domain:github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
+domain:github-production-user-asset-6210df.s3.amazonaws.com
 domain:google-ohttp-relay-safebrowsing.fastly-edge.com
 domain:heads-ak-spotify-com.akamaized.net
 domain:heads4-ak-spotify-com.akamaized.net
@@ -25671,6 +25710,26 @@ domain:prd-priconne-redive.akamaized.net
 domain:preprod-publicca.googleapis.com
 domain:prodforza.blob.core.windows.net
 domain:production-openaicom-storage.azureedge.net
+domain:productionresultssa0.blob.core.windows.net
+domain:productionresultssa1.blob.core.windows.net
+domain:productionresultssa10.blob.core.windows.net
+domain:productionresultssa11.blob.core.windows.net
+domain:productionresultssa12.blob.core.windows.net
+domain:productionresultssa13.blob.core.windows.net
+domain:productionresultssa14.blob.core.windows.net
+domain:productionresultssa15.blob.core.windows.net
+domain:productionresultssa16.blob.core.windows.net
+domain:productionresultssa17.blob.core.windows.net
+domain:productionresultssa18.blob.core.windows.net
+domain:productionresultssa19.blob.core.windows.net
+domain:productionresultssa2.blob.core.windows.net
+domain:productionresultssa3.blob.core.windows.net
+domain:productionresultssa4.blob.core.windows.net
+domain:productionresultssa5.blob.core.windows.net
+domain:productionresultssa6.blob.core.windows.net
+domain:productionresultssa7.blob.core.windows.net
+domain:productionresultssa8.blob.core.windows.net
+domain:productionresultssa9.blob.core.windows.net
 domain:psg-int-centralus.cloudapp.net
 domain:psg-int-eastus.cloudapp.net
 domain:publicca.googleapis.com
@@ -25888,6 +25947,5 @@ regexp:^[0-9]+vod-adaptive\.akamaized\.net$
 regexp:^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 regexp:^epicgames-download\d\.akamaized\.net$
 regexp:^ewcdn[0-9]+\.nowe\.com$
-regexp:^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$
 regexp:^hses[1-7]?\.akamaized\.net$
 regexp:javdb\d+\.com$
