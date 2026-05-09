@@ -48,7 +48,9 @@ white_direct = {
     "tools.google.com", 
     "clientservices.googleapis.com",
     "fonts.googleapis.com",
-    "update.googleapis.com"
+    "update.googleapis.com",
+    "www.gstatic.com",
+    "ssl.gstatic.com"
 }
 white_private = {
     "msftncsi.com",
