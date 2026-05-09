@@ -173,6 +173,7 @@ full:store.storeimages.cdn-apple.com
 full:updates.cdn-apple.com
 full:updates-http.cdn-apple.com
 full:test.gbugs-qa.chromium.org
+full:cdn.globalsigncdn.com.cdn.cloudflare.net
 full:adcdownload.apple.com.akadns.net
 full:amp-api-edge-lb-cn.itunes-apple.com.akadns.net
 full:amp-api-edge-lb.itunes-apple.com.akadns.net
@@ -214,7 +215,6 @@ full:swscan-cdn.apple.com.akadns.net
 full:updates-http.cdn-apple.com.akadns.net
 full:valid.origin-apple.com.akadns.net
 full:weather-data.apple.com.akadns.net
-full:cdn.globalsigncdn.com.cdn.cloudflare.net
 full:store.apple.com.edgekey.net
 full:firebase-settings.crashlytics.com
 full:update.crashlytics.com
@@ -24405,6 +24405,10 @@ domain:clouddream.net
 domain:cloudencent.com
 domain:cloudflare-cn.com
 domain:cloudflare.fun
+domain:lenovo.com.cdn.cloudflare.net
+domain:oemssl.cn.cdn.cloudflare.net
+domain:qualcomm.cn.cdn.cloudflare.net
+domain:sectigochina.com.cdn.cloudflare.net
 domain:cloudflareanycast.net
 domain:cloudflarecn.net
 domain:cloudflareglobal.net
@@ -24789,8 +24793,6 @@ domain:cn-wisely.com
 domain:cn-witmed.com
 domain:cn-zhentai.com
 domain:cn-zhongrui.com
-domain:oemssl.cn.cdn.cloudflare.net
-domain:qualcomm.cn.cdn.cloudflare.net
 domain:cn.net
 domain:cn0-6.com
 domain:cn006.com
@@ -25907,8 +25909,6 @@ domain:colourlife.com
 domain:columbia-china.com
 domain:columbia-kaiyuan.com
 domain:columbia-wuxi.com
-domain:lenovo.com.cdn.cloudflare.net
-domain:sectigochina.com.cdn.cloudflare.net
 domain:com.fi
 domain:com.mp
 domain:com.tv
@@ -114139,6 +114139,7 @@ domain:zwlhome.com
 domain:zwoasi.com
 domain:zwoptical.com
 domain:zwoptics.com
+domain:zwpyyds.com
 domain:zwslshy.com
 domain:zwsmds.com
 domain:zwtianshangm.com
