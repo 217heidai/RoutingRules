@@ -93,6 +93,7 @@ domain:100.51.198.in-addr.arpa
 domain:8.b.d.0.1.0.0.2.ip6.arpa
 domain:113.0.203.in-addr.arpa
 domain:255.255.255.255.in-addr.arpa
+domain:asusrouter.com
 domain:8.e.f.ip6.arpa
 domain:9.e.f.ip6.arpa
 domain:a.e.f.ip6.arpa
@@ -102,16 +103,15 @@ domain:hiwifi.com
 domain:home.arpa
 domain:kis.v2.scr.kaspersky-labs.com
 domain:leike.cc
+domain:miwifi.com
 domain:peiluyou.com
 domain:phicomm.me
 domain:plex.direct
 domain:localhost.ptlogin2.qq.com
 domain:localhost.sec.qq.com
+domain:routerlogin.com
 domain:tendawifi.com
 domain:tplinkwifi.net
-domain:ts.net
-domain:asusrouter.com
-domain:routerlogin.com
 domain:tplogin.cn
-domain:miwifi.com
+domain:ts.net
 regexp:^[a-z]([a-z0-9-]{0,61}[a-z0-9])?$
