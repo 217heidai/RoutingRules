@@ -1,5 +1,5 @@
 import os
-from tld import get_tld
+import tldextract
 from typing import Dict,List,Tuple,Set
 
 from loguru import logger
@@ -10,27 +10,32 @@ from util import Util
 class RuleDomain(object):
     def __init__(self, domain:Dict[str, str]) -> None:
         self.__domain = domain
-
-    def __analysis_domain(self, domain:str) -> Tuple[str, str]: # fld, subdomain
-        try:
-            res = get_tld(domain, fix_protocol=True, as_object=True)
-            return res.fld, res.subdomain
-        except Exception as e:
-            logger.error(e)
-            return None, None
     
     def __merge(self, filelist: List[str], output_file:str, white:Set[str]=None):
-        def domains_add(domains:Dict[str,List[str]], domain:str) -> Dict[str,List[str]]:
-            fld, subdomain = self.__analysis_domain(domain)
-            if fld:
-                if fld not in domains:
-                    domains[fld] = [subdomain]
+        def domains_add(extractor, domains:Dict[str,List[str]], domain:str) -> Dict[str,List[str]]:
+            try:
+                extracted = extractor(domain)
+                registered_domain = extracted.registered_domain
+                if len(registered_domain) == 0:
+                    if len(extracted.suffix):
+                        registered_domain = extracted.suffix
+                    else:
+                        print("无效规则：%s"%(domain))
+                        return domains
+                subdomain = extracted.subdomain
+                if registered_domain not in domains:
+                    domains[registered_domain] = [subdomain]
                 else:
-                    domains[fld].append(subdomain)
-            return domains
+                    domains[registered_domain].append(subdomain)
+                return domains
+            except Exception as e:
+                logger.error(e)
+                return domains
         try:
             path = os.path.dirname(output_file)
             os.makedirs(path, exist_ok=True)
+
+            extractor = tldextract.TLDExtract()
 
             domains_regexp:List[str] = list()
             domains_keyword:List[str] = list()
@@ -44,21 +49,24 @@ class RuleDomain(object):
                             continue
                         if len(tmp):
                             if tmp.startswith("full:"):
-                                domains_full = domains_add(domains_full, tmp[len("full:"):])
+                                domains_full = domains_add(extractor, domains_full, tmp[len("full:"):])
                             elif tmp.startswith("domain"):
-                                domains_domain = domains_add(domains_domain, tmp[len("domain:"):])
+                                domains_domain = domains_add(extractor, domains_domain, tmp[len("domain:"):])
                             elif tmp.startswith("regexp:"):
                                 domains_regexp.append(tmp)
                             elif tmp.startswith("keyword:"):
                                 domains_keyword.append(tmp)
                             elif tmp.startswith("DOMAIN,"):
-                                domains_full = domains_add(domains_full, tmp[len("DOMAIN,"):])
+                                domains_full = domains_add(extractor, domains_full, tmp[len("DOMAIN,"):])
                             elif tmp.startswith("DOMAIN-SUFFIX,"):
-                                domains_domain = domains_add(domains_domain, tmp[len("DOMAIN-SUFFIX,"):])
+                                domains_domain = domains_add(extractor, domains_domain, tmp[len("DOMAIN-SUFFIX,"):])
                             elif tmp.startswith("server=/"):
-                                domains_domain = domains_add(domains_domain, tmp[len("server=/"):tmp.rfind("/")])
+                                domains_domain = domains_add(extractor, domains_domain, tmp[len("server=/"):tmp.rfind("/")])
                             else:
-                                domains_domain = domains_add(domains_domain, tmp)
+                                if tmp.find(".") > 0:
+                                    domains_domain = domains_add(extractor, domains_domain, tmp)
+                                else:
+                                    print("无效规则：%s"%(tmp))
             
             # regexp 规则去重、排序
             if len(domains_regexp) > 1:
@@ -70,6 +78,21 @@ class RuleDomain(object):
                 domains_keyword = list(set(domains_keyword))
                 domains_keyword.sort()
 
+            # full 规则子域名去重、排序
+            key_remove = []
+            for k,v in domains_full.items():
+                if '' in v:
+                    domains_domain[k] = [''] # full 规则中存在 domain 规则，重新归档到 domains_domain
+                    key_remove.append(k)
+                else:
+                    tmp = list(set(v))
+                    tmp.sort()
+                    domains_full[k] = tmp
+            # 移除已归档到 domains_domain 的域名
+            for k in key_remove:
+                domains_full.pop(k, None)
+            domains_full = {k: domains_full[k] for k in sorted(domains_full)}
+
             # domain 规则子域名去重、排序
             for k,v in domains_domain.items():
                 if '' in v:
@@ -80,19 +103,8 @@ class RuleDomain(object):
                     domains_domain[k] = tmp
             domains_domain = {k: domains_domain[k] for k in sorted(domains_domain)}
             
-            # full 规则子域名去重、排序
-            for k,v in domains_full.items():
-                if '' in v:
-                    domains_domain[k] = ['']
-                else:
-                    tmp = list(set(v))
-                    tmp.sort()
-                    domains_full[k] = tmp
-            domains_full = {k: domains_full[k] for k in sorted(domains_full)}
-            
             # 已在 doamin 规则拦截的，移除 full 规则
             domains_full = {k: v for k, v in domains_full.items() if not (k in domains_domain and '' in domains_domain[k])}
-
 
             if len(domains_full) or len(domains_domain) or len(domains_regexp) or len(domains_keyword):
                 with open(output_file, 'w') as out:
