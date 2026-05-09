@@ -315,8 +315,6 @@ full:g0.gstatic.com
 full:g1.gstatic.com
 full:g2.gstatic.com
 full:g3.gstatic.com
-full:ssl.gstatic.com
-full:www.gstatic.com
 full:redirector.gvt1.com
 full:redirector.gcpcdn.gvt1.com
 full:redirector.offline-maps.gvt1.com
