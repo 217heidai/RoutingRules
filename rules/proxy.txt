@@ -5616,6 +5616,7 @@ domain:cnyes.com
 domain:cnzjp.xyz
 domain:ikea.co.ca
 domain:ikea.co.de
+domain:odnoklassniki.co.ee
 domain:ikea.co.ph
 domain:ikea.co.pl
 domain:coat.co.jp
@@ -10143,8 +10144,6 @@ domain:google.vn
 domain:google.vu
 domain:google.ws
 domain:googleacquisitionmigration.com
-domain:cnappinstall.googleadapis.com
-domain:content.googleadapis.com
 domain:clickserver.googleads.com
 domain:googleadservices-cn.com
 domain:googleadservices.com
@@ -13098,6 +13097,7 @@ domain:justporno.sex
 domain:justporno.tv
 domain:justswallows.com
 domain:justusboys.com
+domain:justveryok.com
 domain:juyangbee.xyz
 domain:juyangto.info
 domain:juzi-js.shop
@@ -13256,6 +13256,7 @@ domain:kernel.org
 domain:kex.com
 domain:keybase.io
 domain:keybaseapi.com
+domain:keyboardmen.com
 domain:keycdn.com
 domain:keyhole.com
 domain:keyporntube.com
@@ -16696,7 +16697,14 @@ domain:oculusforbusiness.com
 domain:oculusrift.com
 domain:oculusvr.com
 domain:odkl.ru
+domain:odnoklasniki.by
+domain:odnoklasniki.ua
+domain:odnoklassniki.am
+domain:odnoklassniki.by
+domain:odnoklassniki.eu
+domain:odnoklassniki.lv
 domain:odnoklassniki.ru
+domain:odnoklassniki.tj
 domain:odysee.com
 domain:oecd-ilibrary.org
 domain:oed.com
@@ -18509,9 +18517,6 @@ domain:q10.jp
 domain:q13.com
 domain:q13fox.com
 domain:qatarescortsvip.com
-domain:download.qatp1.net
-domain:qagpublic.qatp1.net
-domain:qualysapi.qatp1.net
 domain:qattdh.cc
 domain:qattdh.top
 domain:qattdh1.cc
@@ -18521,8 +18526,6 @@ domain:qbittorrent.org
 domain:qbmengmei6.mom
 domain:qcmod.xyz
 domain:qcomgeo2.com
-domain:qgadmin.qcpp1.net
-domain:scanservice1.qcpp1.net
 domain:qctconnect.com
 domain:qdiehzz7.me
 domain:qgirl.com.tw
@@ -18553,8 +18556,6 @@ domain:qoo10.jp
 domain:qooqlevideo.com
 domain:qoos.com
 domain:qorno.com
-domain:monitoring.qpdp1.net
-domain:qualysguard.qpdp1.net
 domain:qporno.xxx
 domain:qprize.com
 domain:qq.co.za
@@ -18658,6 +18659,7 @@ domain:r18lu-avi.shop
 domain:r18lu.com
 domain:r2.dev
 domain:r34porn.net
+domain:rabbitcounter.com
 domain:rabbitscams.com
 domain:rabbitscams.sex
 domain:rabbitsreviews.com
@@ -19365,6 +19367,7 @@ domain:savitabhabhi.vip
 domain:savitahd.net
 domain:savoycomputing.com
 domain:savvyshopper.net.au
+domain:sayeasy.eu
 domain:saynow.com
 domain:sb-cd.com
 domain:sb-mobile.jp
