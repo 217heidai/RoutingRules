@@ -27448,6 +27448,7 @@ domain:ctfund.com
 domain:ctgapp.com
 domain:ctgcdn.biz
 domain:ctgcdn.com
+domain:ctgcdn.info
 domain:ctghealthy.com
 domain:ctghr.com
 domain:ctghro.com
