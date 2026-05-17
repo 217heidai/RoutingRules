@@ -20878,6 +20878,7 @@ domain:cdt-ec.com
 domain:cdt-md.com
 domain:cdt-re.com
 domain:cdtcxh.org
+domain:cdthunder.com
 domain:cdtianda.com
 domain:cdtkdw.com
 domain:cdtlev.com
@@ -29743,6 +29744,7 @@ domain:dfzmzyc.com
 domain:dfzxvip.com
 domain:dfzyxy.net
 domain:dg-360lhx.com
+domain:dg-dn.com
 domain:dg-dns.com
 domain:dg-dx.com
 domain:dg-hanxin.com
@@ -38753,6 +38755,7 @@ domain:geedai.com
 domain:geedu.com
 domain:geeetech.com
 domain:geeeu.com
+domain:geeflex.com
 domain:geehy.com
 domain:geejing.com
 domain:geek-docs.com
@@ -51007,6 +51010,7 @@ domain:i5i6.net
 domain:i5p.com
 domain:i5sto.com
 domain:i5tea.com
+domain:i5zhen.com
 domain:i66wan.com
 domain:i6879.com
 domain:i72.com
@@ -55952,6 +55956,7 @@ domain:jiuniok.com
 domain:jiupaicom.com
 domain:jiupainews.com
 domain:jiupaipay.com
+domain:jiuphone.com
 domain:jiuq.com
 domain:jiuqianwan.group
 domain:jiuqianwanjituan.com
@@ -77347,6 +77352,7 @@ domain:qrgiant.com
 domain:qrmanhua.com
 domain:qrobot.com
 domain:qrprt.com
+domain:qrstuvwxyzab.com
 domain:qrtest.com
 domain:qrtz.co
 domain:qrx.cc
@@ -97985,6 +97991,7 @@ domain:withzz.com
 domain:witintech.com
 domain:witkeyschool.com
 domain:witmart.net
+domain:witmem.com
 domain:witnew.net
 domain:witontek.com
 domain:witrn.com
@@ -101361,6 +101368,7 @@ domain:xincomm.com
 domain:xinda-bio.com
 domain:xindachem.com
 domain:xindalawyer.com
+domain:xindao6.com
 domain:xindaohang123.com
 domain:xindasulian.com
 domain:xinde.org
@@ -103837,6 +103845,7 @@ domain:xyy001.com
 domain:xyyao.com
 domain:xyyb.net
 domain:xyybs.com
+domain:xyydedge.com
 domain:xyydnode.com
 domain:xyyh.xyz
 domain:xyyjxxjsyxgs.com
@@ -104286,6 +104295,7 @@ domain:yanjiaoweixin.com
 domain:yanjinews.com
 domain:yanjiubaogao.com
 domain:yanjiuchubanshe.com
+domain:yanjiwangluo.com
 domain:yanjob.com
 domain:yanjun7858.com
 domain:yanjunbo.com
@@ -106448,6 +106458,7 @@ domain:ymxinke.com
 domain:ymxinxi.com
 domain:ymxlass.com
 domain:ymyun.com
+domain:ymyw.net
 domain:ymyxsw.com
 domain:ymzer.com
 domain:ymzsl.com
