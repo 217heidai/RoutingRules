@@ -20058,6 +20058,7 @@ domain:shywifeswap.com
 domain:siam.org
 domain:sibreal.org
 domain:sidelinesnews.com
+domain:sider.ai
 domain:siege-amazon.com
 domain:sifangclub.com
 domain:sigcomm.org
@@ -25458,6 +25459,7 @@ domain:zhainanjidi.xyz
 domain:zhainanjidid.top
 domain:zhangboz1.xyz
 domain:zhangtianliang.com
+domain:zhangzhehan.net
 domain:zhanlve.org
 domain:zhengjian.org
 domain:zhengwunet.org
