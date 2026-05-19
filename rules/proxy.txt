@@ -488,6 +488,7 @@ domain:54647.org
 domain:55dndn.com
 domain:567321.online
 domain:568xe.com
+domain:573.jp
 domain:58avgo.com
 domain:592r.com
 domain:59mvmv.com
@@ -13304,6 +13305,7 @@ domain:keytransparency.com
 domain:keytransparency.foo
 domain:keytransparency.org
 domain:kfs.io
+domain:kgisystems.com
 domain:kgslb.com
 domain:khanacademy.org
 domain:khatrimaza.org
@@ -13397,6 +13399,7 @@ domain:kissjav.com
 domain:kissjav.li
 domain:kitakyushubank.co.jp
 domain:msk.kitazawa.me
+domain:kiwi.jp
 domain:kiwi.kz
 domain:kiwibrowser.com
 domain:kiyobank.co.jp
@@ -13434,6 +13437,19 @@ domain:kompoz2.com
 domain:kompozer.net
 domain:konachan.com
 domain:konachan.net
+domain:konami-igaming.online
+domain:konami.co.jp
+domain:konami.com
+domain:konami.net
+domain:konami.org
+domain:konamicrossmedia.com
+domain:konamigaming.com
+domain:konamigaming.net
+domain:konamigaming.online
+domain:konamionline.com
+domain:konamiopen.jp
+domain:konamisportsclub.jp
+domain:konamistyle.jp
 domain:koolsolutions.com
 domain:koornk.com
 domain:kopfhorergunstigshop.com
@@ -19026,6 +19042,8 @@ domain:researchkit.hk
 domain:researchkit.net
 domain:researchkit.org
 domain:researchkit.tv
+domain:resella.jp
+domain:resellablue.com
 domain:resilio.com
 domain:resistchina.org
 domain:resonabank.co.jp
@@ -25349,6 +25367,7 @@ domain:ytn.co.kr
 domain:yuanming.net
 domain:yuenuge113.xyz
 domain:yuenuge18.cc
+domain:yugioh-card.com
 domain:misskey.yukineko.me
 domain:yulghun.com
 domain:yunchao.net
