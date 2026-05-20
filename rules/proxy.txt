@@ -1371,6 +1371,7 @@ domain:alchemysynth.com
 domain:alefbank.com
 domain:alexa.com
 domain:alexanderstreet.com
+domain:alfa.me
 domain:alfabank.ru
 domain:alfabank.st
 domain:alfadirect.ru
@@ -15787,6 +15788,7 @@ domain:mysocialworklab.com
 domain:myspacecdn.com
 domain:mysql.com
 domain:mystrikingly.com
+domain:myteamspeak.com
 domain:myteenwebcam.com
 domain:mythicentertainment.com
 domain:mythicentertainment.net
@@ -21286,6 +21288,8 @@ domain:teachmyass.com
 domain:teachparentstech.org
 domain:teamneedforspeed.com
 domain:teamskeet.com
+domain:teamspeak-services.com
+domain:teamspeak.com
 domain:teamviewer.com
 domain:teamviewer.us
 domain:tearapeak.com
