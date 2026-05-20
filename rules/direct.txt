@@ -48271,6 +48271,7 @@ domain:hpc.cloud
 domain:hpcang.com
 domain:hpccake.com
 domain:hpccube.com
+domain:hpconnected.com
 domain:hpculturegroup.com
 domain:hpepea.com
 domain:hpgamestream.com
@@ -51902,6 +51903,7 @@ domain:ihtcboy.com
 domain:ihtmlcss.com
 domain:ihuaben.com
 domain:ihuan.me
+domain:ihuandu.com
 domain:ihuang.org
 domain:ihuanling.com
 domain:ihuanque.com
@@ -88056,6 +88058,7 @@ domain:szcw.com
 domain:szcwdz.com
 domain:szcy-fintech.com
 domain:szcy99.com
+domain:szcyqg.com
 domain:szczjy.com
 domain:szczkjgs.com
 domain:szdaily.com
