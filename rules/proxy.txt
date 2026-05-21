@@ -9370,6 +9370,7 @@ domain:g-technology.com
 domain:g-tun.com
 domain:g-tvapp.com
 domain:g-xxxhub.com
+domain:g.ai
 domain:g.co
 domain:g.dev
 domain:g.page
@@ -13640,6 +13641,7 @@ domain:lenkino.xxx
 domain:lenporno.net
 domain:lenporno.red
 domain:lenwhite.com
+domain:leonardo.ai
 domain:leporno.org
 domain:lepornochaud.com
 domain:lepornofrais.com
@@ -15455,10 +15457,12 @@ domain:moxing.mobi
 domain:moxing.news
 domain:moystoys.com
 domain:mozgcp.net
+domain:mozilla.ai
 domain:mozilla.com
 domain:mozilla.community
 domain:mozilla.net
 domain:mozilla.org
+domain:mozillafoundation.org
 domain:mdn.mozit.cloud
 domain:www.moztw.org
 domain:bbc.mp-pxcdn.com
@@ -15811,6 +15815,7 @@ domain:myxxgirl.com
 domain:myyoungmomisnude.com
 domain:myyoungwifeisnude.com
 domain:mzed.com
+domain:mzl.la
 domain:mzstatic.com
 domain:n0vadesktop.com
 domain:n26.com
@@ -18786,6 +18791,7 @@ domain:misskey.ranranhome.info
 domain:blog.ranxiang.com
 domain:rapefilms.net
 domain:rapetube.me
+domain:raphael.app
 domain:rapidmoviez.com
 domain:rapidprototyping-cadcam.com
 domain:rapidssl.com
@@ -19256,6 +19262,7 @@ domain:ruhub.tv
 domain:ruinedking.com
 domain:rukoebxx.com
 domain:rulaisc-tv.buzz
+domain:rule34.us
 domain:rule34.xxx
 domain:rule34h.com
 domain:rule34pornvids.com
@@ -20508,6 +20515,7 @@ domain:sos44.com
 domain:sosad.fun
 domain:soso7778.com
 domain:sosreader.com
+domain:sotwe.com
 domain:soubory.com
 domain:souka.xyz
 domain:soulcaliburhentai.net
@@ -21243,6 +21251,7 @@ domain:taose.in
 domain:tap.io
 domain:tapanwap.com
 domain:tapatalk.com
+domain:tapnow.ai
 domain:taptap.io
 domain:taptotokyo.com
 domain:taqunuhai.vip
