@@ -35,11 +35,16 @@ class RuleIP(object):
             filelist = []
             for k,v in self.__ip.items():
                 filename = os.path.join(path_download, k)
-                if (Util.download(filename, v)):
+                result = Util.download(filename, v)
+                if result:
                     filelist.append(filename)
+                else:
+                    return False
             
             if len(filelist) > 0:
                 self.__merge(filelist, output_file)
 
+            return True
         except Exception as e:
             logger.error(e)
+            return False
