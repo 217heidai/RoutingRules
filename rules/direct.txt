@@ -49660,6 +49660,7 @@ domain:hulubaba.com
 domain:huluboshi.com
 domain:huludz.com
 domain:huluer.com
+domain:huluer.vip
 domain:huluip.com
 domain:huluip.tech
 domain:huluo.com
