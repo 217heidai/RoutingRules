@@ -7613,6 +7613,7 @@ domain:electronicarts.fr
 domain:electronicsignature.ru
 domain:electronjs.org
 domain:element.io
+domain:elementary.io
 domain:elephantlist.com
 domain:elephantsdream.org
 domain:elephanttube.com
@@ -9879,6 +9880,7 @@ domain:gnailapp.sbs
 domain:gnci.org.hk
 domain:gnews.org
 domain:gnom-cham.com
+domain:gnome.org
 domain:gnu.org
 domain:gnzi.xyz
 domain:gnzi1.top
@@ -10684,6 +10686,7 @@ domain:helixstudios.net
 domain:helloandroid.com
 domain:helloavgirls.com
 domain:hellokittybeats.com
+domain:hellomoto.com
 domain:helloqueer.com
 domain:hellosmartbook.com
 domain:hellporno.com
@@ -13271,6 +13274,7 @@ domain:kbzbank.com
 domain:kbzpay.com
 domain:kc3000.shop
 domain:kcqsw-na.sbs
+domain:kde.org
 domain:kdfuli.com
 domain:kdy202312.shop
 domain:keaiav.com
@@ -14034,6 +14038,7 @@ domain:lvhtebook.com
 domain:lvv2.com
 domain:lwwcn.buzz
 domain:lwwcn.xyz
+domain:lxqt-project.org
 domain:lxxlxx.com
 domain:lyfhk.net
 domain:lysol.ca
@@ -14412,6 +14417,7 @@ domain:masturbate2gether.com
 domain:mat6tube.com
 domain:matainja.com
 domain:matchmover.com
+domain:mate-desktop.org
 domain:material.io
 domain:mathoverflow.net
 domain:matome-plus.com
@@ -15431,7 +15437,31 @@ domain:mostpopularpornsites.com
 domain:motherless.com
 domain:motiongraphicsandmore.com
 domain:motionpictureser.com
+domain:moto.com
 domain:motolia.com
+domain:motorola.ca
+domain:motorola.cl
+domain:motorola.co
+domain:motorola.co.id
+domain:motorola.co.jp
+domain:motorola.co.th
+domain:motorola.co.uk
+domain:motorola.com
+domain:motorola.com.au
+domain:motorola.com.co
+domain:motorola.com.pe
+domain:motorola.com.pr
+domain:motorola.de
+domain:motorola.es
+domain:motorola.fr
+domain:motorola.gr
+domain:motorola.in
+domain:motorola.it
+domain:motorola.net
+domain:motorola.vn
+domain:motorolacareers.com
+domain:motorolanews.com
+domain:motorolasolutions.com
 domain:motorshowblog.com
 domain:mottainai.info
 domain:move-free.net
@@ -17804,6 +17834,7 @@ domain:planetsuzy.org
 domain:plannotator.ai
 domain:plansondemand.com
 domain:plantsvszombies2.com
+domain:plasma-mobile.org
 domain:plasticlabs.com
 domain:plastics-cadcam.com
 domain:platiecom.ru
@@ -21154,6 +21185,7 @@ domain:synologydownload.com
 domain:synologyupdate.com
 domain:syosetu.com
 domain:sysinternals.com
+domain:system76.com
 domain:syzbj36.xyz
 domain:szabadeuropa.hu
 domain:szcheapmonsterheadphones.com
@@ -24327,6 +24359,7 @@ domain:xenoblade.com
 domain:xeon.com
 domain:xerotica.com
 domain:xfantazy.com
+domain:xfce.org
 domain:xfemaledom.com
 domain:xfinity.com
 domain:xfockers.com
