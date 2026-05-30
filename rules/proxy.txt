@@ -2344,6 +2344,7 @@ domain:arweave.org
 domain:arxiv.org
 domain:arzon.jp
 domain:as-hp.ca
+domain:as.mr
 domain:asacp.org
 domain:asagaku.com
 domain:asahi.com
@@ -9569,6 +9570,7 @@ domain:gelbooru.me
 domain:gemfire.net
 domain:gemfury.com
 domain:gemini.com
+domain:gencraft.com
 domain:gendai.net
 domain:generated.photos
 domain:genetic-technologies.am
@@ -22761,6 +22763,7 @@ domain:vday.io
 domain:vdoav.com
 domain:vecchiescopate.casa
 domain:vector.im
+domain:veed.io
 domain:veet.at
 domain:veet.be
 domain:veet.ca
@@ -25109,7 +25112,6 @@ domain:yho.com
 domain:yhy.cool
 domain:yibaochina.com
 domain:yibei.org
-domain:yidio.com
 domain:yigeni.com
 domain:yimg.com
 domain:yimg.jp
