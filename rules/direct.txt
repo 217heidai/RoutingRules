@@ -6004,6 +6004,7 @@ domain:51csr.com
 domain:51cto.com
 domain:51cube.com
 domain:51cxsoft.com
+domain:51cywx.com
 domain:51czapp.com
 domain:51dai.com
 domain:51daifu.com
@@ -14792,6 +14793,7 @@ domain:baicaosoft.com
 domain:baiccapital.com
 domain:baiccl.com
 domain:baicdnx.com
+domain:baicebao.com
 domain:baicells.com
 domain:baicfc.com
 domain:baicheng.com
@@ -29012,6 +29014,7 @@ domain:dd01.com
 domain:dd0415.net
 domain:dd0513702337fb4b.com
 domain:dd0d7e15310311.beer
+domain:dd0ss-waf.com
 domain:dd128.com
 domain:dd2007.com
 domain:dd208.com
@@ -63556,6 +63559,7 @@ domain:longfanshipping.com
 domain:longfengmarathon.com
 domain:longfor.com
 domain:longfu360.com
+domain:longget.com
 domain:longguanjia.so
 domain:longhoo.net
 domain:longhorn-auto.com
@@ -63753,6 +63757,7 @@ domain:love21cn.com
 domain:love5201314.net
 domain:love5209420.com
 domain:love85g.com
+domain:love9w.com
 domain:loveabc.net
 domain:lovean.com
 domain:loveapp.com
@@ -67253,6 +67258,7 @@ domain:minihaowan.com
 domain:miniluck.com
 domain:minimaituan.com
 domain:minimax.chat
+domain:minimax.io
 domain:minimaxi.com
 domain:mining120.com
 domain:mininglamp.com
@@ -71729,6 +71735,7 @@ domain:nvcam.net
 domain:nvcong.com
 domain:nvidia-china.com
 domain:nvgate16.nvidia.com
+domain:nvidia.net
 domain:nvkan.com
 domain:nvpuse.com
 domain:nvpuwo.com
@@ -78904,6 +78911,7 @@ domain:rjreducer.com
 domain:rjs.com
 domain:rjsjmbwx.com
 domain:rjsos.com
+domain:rjsth.uno
 domain:rjtx.net
 domain:rjty.com
 domain:rjxzjx.com
@@ -82434,6 +82442,7 @@ domain:shenduwin7.com
 domain:shenduxiyin.com
 domain:shengangzc.com
 domain:shengaohua.com
+domain:shengaowl.com
 domain:shengbaihui.com
 domain:shengbangshenghua.com
 domain:shengbaoluo.com
@@ -85046,6 +85055,7 @@ domain:smrmyy.com
 domain:sms18.com
 domain:sms9.net
 domain:smsbao.com
+domain:smshj.com
 domain:smshos.com
 domain:smshx.com
 domain:smskb.com
@@ -103991,6 +104001,8 @@ domain:yao.com
 domain:yao123.com
 domain:yao51.com
 domain:yaobo.net
+domain:yaobw18.com
+domain:yaobx18.com
 domain:yaocai.com
 domain:yaocaicang.com
 domain:yaocaizhongzi.com
