@@ -6822,6 +6822,7 @@ domain:disneyturkiye.com.tr
 domain:disneytvajobs.com
 domain:disneyworld-go.com
 domain:disp.cc
+domain:disq.us
 domain:disqus.com
 domain:disquscdn.com
 domain:disqusservice.com
@@ -24388,10 +24389,14 @@ domain:xhamster.xxx
 domain:xhamster18.com
 domain:xhamster18.desi
 domain:xhamster19.com
+domain:xhamster2.com
 domain:xhamster3.com
 domain:xhamsterlive.com
 domain:xhcdn.com
+domain:xhnews.live
 domain:xhot.pro
+domain:xhpingcdn.com
+domain:xhreal5.com
 domain:xhub.tv
 domain:xiangrikui-app.com
 domain:xianir.xyz
