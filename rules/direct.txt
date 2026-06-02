@@ -32852,6 +32852,7 @@ domain:edgeonev4.net
 domain:edgeonev5.com
 domain:edgeonev5.net
 domain:edgep.net
+domain:edgescloud.cloud
 domain:edgesrv.com
 domain:edgetls.xyz
 domain:edhic.com
@@ -43881,6 +43882,7 @@ domain:habadog.com
 domain:habbygames.com
 domain:habctv.com
 domain:habwjc.com
+domain:hacg.site
 domain:hach-hanna.com
 domain:hachicnc.com
 domain:hacjkq.com
@@ -67151,6 +67153,7 @@ domain:mingpian.biz
 domain:mingpian.net
 domain:mingqi.co
 domain:mingqu.xyz
+domain:mingque.com
 domain:mingr.com
 domain:mingren888.com
 domain:mingrsoft.com
@@ -71990,6 +71993,7 @@ domain:oemhouse.com
 domain:oemnew.com
 domain:oempromo.com
 domain:oemresource.com
+domain:oemxitong.com
 domain:oeob.net
 domain:oepkgs.net
 domain:oepkgs.org
@@ -73596,6 +73600,7 @@ domain:pedli.com
 domain:peekpipai.com
 domain:peento.com
 domain:peepic.com
+domain:peer.as
 domain:peerkennel.com
 domain:pegbiocq.com
 domain:peidibrand.com
@@ -78126,6 +78131,7 @@ domain:rate2003.com
 domain:rationalwh.com
 domain:ratogh.com
 domain:ratoo.net
+domain:rauqa.net
 domain:rauto.com
 domain:ravenna0943.xyz
 domain:raverstern.site
@@ -87474,6 +87480,7 @@ domain:syranqi.com
 domain:syrc.org
 domain:syrcb.net
 domain:syrczpw.com
+domain:syrds.pro
 domain:syreads.com
 domain:syrecovery.com
 domain:syrhkj.com
@@ -94329,6 +94336,7 @@ domain:videoplus.cc
 domain:videotomp3.site
 domain:videoxiaoyouxi.com
 domain:videoyx.com
+domain:vidhash.net
 domain:vidmate.mobi
 domain:vidmate.net
 domain:vidmatefilm.org
@@ -102221,6 +102229,7 @@ domain:xn--gmq238c5fy.com
 domain:xn--gmq64zxnt8llcrb.xn--6qq986b3xl
 domain:xn--gmq65d2wksq4b0bt.xn--czr694b
 domain:xn--gmqr9gdtrhuf56g.com
+domain:xn--h5qy75o.vip
 domain:xn--h6qyr29eh1buxk3e37mxzkp28b2b8c.xn--3ds443g
 domain:xn--husx9zj2eepau0se83d.com
 domain:xn--hutn94av9amzg.net
