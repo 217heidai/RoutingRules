@@ -49222,6 +49222,7 @@ domain:huihezx.com
 domain:huihua365.com
 domain:huihua8.com
 domain:huihuaren.com
+domain:huihui.moe
 domain:huii.cc
 domain:huiidea.com
 domain:huiji.wiki
@@ -51226,6 +51227,7 @@ domain:idcay.com
 domain:idcbdy.com
 domain:idcbest.com
 domain:idcbest.hk
+domain:idccdns.com
 domain:idccenter.net
 domain:idccom.net
 domain:idccun.com
@@ -65734,6 +65736,7 @@ domain:mbg06270pg.com
 domain:mbg06290pg.com
 domain:mbg06301pg.com
 domain:mbgo.com
+domain:mbhcibe.com
 domain:mbhfit.com
 domain:mbian.com
 domain:mbiaohui.com
@@ -66211,6 +66214,7 @@ domain:meitu-mobile.com
 domain:meitu.com
 domain:meitu.net
 domain:meituaccount.com
+domain:meituan-ad.com
 domain:meituan.com
 domain:meituan.net
 domain:meitubase.com
@@ -81054,6 +81058,7 @@ domain:sdxwyy.net
 domain:sdxxjmgg.com
 domain:sdxyxhj.com
 domain:sdxzt.com
+domain:sdyanbao.com
 domain:sdyftr.com
 domain:sdyhne.com
 domain:sdyhqp.com
@@ -89291,6 +89296,7 @@ domain:tecmz.com
 domain:tecochina.net
 domain:tecolighting.com
 domain:tecompharma.com
+domain:tecorigin.com
 domain:tecreal.com
 domain:tecunonline.com
 domain:tecyle.com
@@ -94092,6 +94098,7 @@ domain:versetech.space
 domain:versolsolar.com
 domain:versoventure.com
 domain:vertciot.com
+domain:vertexdoc.com
 domain:vertical-china.com
 domain:vertu.com
 domain:very361.com
@@ -107151,6 +107158,7 @@ domain:yuanzun.fun
 domain:yuaoq.com
 domain:yuapt.com
 domain:yubaike.com
+domain:yuban.cloud
 domain:yubangweb.com
 domain:yuboinfo.com
 domain:yuboqj.com
