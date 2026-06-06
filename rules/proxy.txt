@@ -5504,6 +5504,7 @@ domain:clau.de
 domain:claude.ai
 domain:claude.com
 domain:claudemcpclient.com
+domain:claudemcpcontent.com
 domain:claudeusercontent.com
 domain:clawhub.ai
 domain:clck.ru
@@ -21265,6 +21266,7 @@ domain:sustainabledesigncouncil.net
 domain:sustainthesound.com
 domain:suxib.com
 domain:suxiebu.com
+domain:suyingtv.com
 domain:suzuri.jp
 domain:svaboda.org
 domain:svc.ms
@@ -24384,6 +24386,7 @@ domain:woyaolian.org
 domain:wp-themes.com
 domain:wp.com
 domain:wpewebkit.org
+domain:wplace.live
 domain:wpoforum.com
 domain:wpvip.com
 domain:wrenchead.com
