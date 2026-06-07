@@ -1688,6 +1688,7 @@ domain:amcplus.com
 domain:amd.com
 domain:amd.com.cn
 domain:amdfanstore.com
+domain:amdgaming.com
 domain:amdigital.co.uk
 domain:ameba.jp
 domain:amebame.com
@@ -4607,6 +4608,7 @@ domain:budaedu.org
 domain:budatt.com
 domain:buddymedia.com
 domain:buffered.com
+domain:bugsnag.com
 domain:bugzilla.org
 domain:buhidoh.net
 domain:buicha.social
@@ -5079,6 +5081,7 @@ domain:cchostvps.xyz
 domain:cciernslabs.com
 domain:cciesecuritylabs.com
 domain:ccievoicelabs.com
+domain:ccleaner.com
 domain:cclife.org
 domain:cclifefl.org
 domain:ccna5.net
@@ -5472,6 +5475,7 @@ domain:citylab.com
 domain:cityoflove.com
 domain:citypopulation.de
 domain:citytourgirls.com
+domain:cityu.hk
 domain:civicparty.hk
 domain:civil3d.com
 domain:civilcc.com
@@ -6036,6 +6040,7 @@ domain:cuebic.biz
 domain:cuffiesaldi.com
 domain:library.usc.cuhk.edu.hk
 domain:mjlsh.usc.cuhk.edu.hk
+domain:cuhk.hk
 domain:cuinc.tw
 domain:cuiweiping.net
 domain:cultoferotica.com
@@ -7596,9 +7601,11 @@ domain:edisebay.com
 domain:editorx.com
 domain:edninfo.com
 domain:edu-research.org
+domain:edu.hk
 domain:edu.ir
 domain:edubridge.com
 domain:education-cadcam.com
+domain:eduhk.hk
 domain:eduplus.hk
 domain:edx-cdn.org
 domain:edx.org
@@ -8673,6 +8680,7 @@ domain:fileflyer.com
 domain:feeds.fileforum.com
 domain:filesmonster.vip
 domain:filesor.com
+domain:filezilla-project.org
 domain:filipino-music.net
 domain:filme2.xxx
 domain:filmeleporno.xxx
@@ -9815,6 +9823,7 @@ domain:git.io
 domain:gitbook.com
 domain:gitbook.io
 domain:softwaredownload.gitbooks.io
+domain:gitgud.io
 domain:raw.githack.com
 domain:github.ai
 domain:github.blog
@@ -11008,6 +11017,7 @@ domain:hitun.io
 domain:hitxhot.com
 domain:hive.blog
 domain:hiveon.net
+domain:hivepress.io
 domain:hjb246.top
 domain:hjb7e9.top
 domain:hk-pub.com
@@ -11018,6 +11028,7 @@ domain:hkbn.com.hk
 domain:hkbn.net
 domain:hkbnes.net
 domain:hkbookcity.com
+domain:hkbu.hk
 domain:hkchronicles.com
 domain:hkcircleapp.com
 domain:hkcitizenmedia.com
@@ -11051,7 +11062,8 @@ domain:hkt.com
 domain:hkteducation.com
 domain:hktpremier.com
 domain:hktshop.com
-domain:jmsc.hku.hk
+domain:hku.hk
+domain:hkust.hk
 domain:hlbelygl.com
 domain:hlsp1.pw
 domain:hm.com
@@ -13616,6 +13628,7 @@ domain:lanasbigboobs.com
 domain:landofhope.tv
 domain:langchain.com
 domain:langsuirs.com
+domain:languagetool.org
 domain:lanik.us
 domain:lanmdh.net
 domain:lanniser-ylo.shop
@@ -15508,6 +15521,7 @@ domain:motiongraphicsandmore.com
 domain:motionpictureser.com
 domain:moto.com
 domain:motolia.com
+domain:motopress.com
 domain:motorola.ca
 domain:motorola.cl
 domain:motorola.co
@@ -15660,6 +15674,7 @@ domain:msturing.org
 domain:msudalosti.com
 domain:msunlimitedcloudsummit.com
 domain:mswe1.org
+domain:msys2.org
 domain:news.mt.co.kr
 domain:mt.lv
 domain:mt0011.site
@@ -16858,6 +16873,7 @@ domain:o3o.ca
 domain:o3t.ru
 domain:o3team.ru
 domain:oaistatic.com
+domain:oaistatsig.com
 domain:oaiusercontent.com
 domain:oanda.com
 domain:oanencore.com
@@ -18060,6 +18076,7 @@ domain:polymarket.com
 domain:polymer-project.org
 domain:polymerhk.com
 domain:polymerproject.org
+domain:polyu.hk
 domain:ponyanimalsex.com
 domain:poofetish.com
 domain:poolbinance.com
@@ -18766,6 +18783,7 @@ domain:qmp4.com
 domain:qmttqg3k.me
 domain:qnap.com
 domain:qobuz.com
+domain:qoder.com
 domain:qombol.com
 domain:qoo-app.com
 domain:qoo10.jp
@@ -24387,6 +24405,7 @@ domain:wp-themes.com
 domain:wp.com
 domain:wpewebkit.org
 domain:wplace.live
+domain:wpmailsmtp.com
 domain:wpoforum.com
 domain:wpvip.com
 domain:wrenchead.com
@@ -24695,8 +24714,14 @@ domain:xn--d1aqf.xn--p1ai
 domain:xn--d4ty0ojsqzfd.com
 domain:xn--e1adjldbbpv.xn--90ais
 domain:xn--e1aigb.xn--p1ai
+domain:xn--fiqs8s1bxp3anr7a.hk
+domain:xn--fiqs8s1bxp3anr7a.xn--j6w193g
+domain:xn--fiqs8s1byzqyvl.hk
+domain:xn--fiqs8s1byzqyvl.xn--j6w193g
 domain:xn--fiqs8sxootzz.xn--hxt814e
 domain:xn--flw351e.com
+domain:xn--gdt08a.hk
+domain:xn--gdt08a.xn--j6w193g
 domain:xn--ggle-55da.com
 domain:xn--gmq348bujlxrb.com
 domain:xn--gmq92kd2rm1kx34a.com
@@ -24715,11 +24740,23 @@ domain:xn--kcrv3utim32hx9f6qe.com
 domain:xn--kput3imi374g.xn--hxt814e
 domain:xn--mts47c3w9b1qr.net
 domain:xn--mtswd61ejxq.com
+domain:xn--mxtq18a.hk
+domain:xn--mxtq18a.xn--j6w193g
 domain:xn--ngstr-lra8j.com
 domain:xn--noss43i.com
 domain:xn--oiq.cc
 domain:xn--p8j9a0d9c9a.xn--q9jyb4c
 domain:xn--pearsonenespaol-brb.com
+domain:xn--pssu7ci2j23mp9ny48b.hk
+domain:xn--pssu7ci2j23mp9ny48b.xn--j6w193g
+domain:xn--pssu7cv61af1tcs59bnvd.hk
+domain:xn--pssu7cv61af1tcs59bnvd.xn--j6w193g
+domain:xn--pssu7cv61af44b.hk
+domain:xn--pssu7cv61af44b.xn--j6w193g
+domain:xn--pssu7cv61ahw8aq79bztd.hk
+domain:xn--pssu7cv61ahw8aq79bztd.xn--j6w193g
+domain:xn--pssu7cv61ahwcb1p2yk.hk
+domain:xn--pssu7cv61ahwcb1p2yk.xn--j6w193g
 domain:xn--q41am8x.com
 domain:xn--qoq462m.com
 domain:xn--r8jwklh769h2mc880dk1o431a.com
@@ -24731,7 +24768,13 @@ domain:xn--tkry91n.com
 domain:xn--u2u927b.com
 domain:xn--ubt498knmf.com
 domain:xn--uis17aj9kmuf.com
+domain:xn--uis44a.xn--j6w193g
 domain:xn--urs05q.jp
+domain:xn--wcv22d.hk
+domain:xn--wcv22d.xn--j6w193g
+domain:xn--wcvs22d.xn--j6w193g
+domain:xn--wcvs22d1m.hk
+domain:xn--wcvs22d1m.xn--j6w193g
 domain:xn--x-qeu1ji09tzlg.biz
 domain:xn--x-qeu1ji09tzlg.net
 domain:xn--xsq421m.com
