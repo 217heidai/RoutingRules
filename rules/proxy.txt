@@ -12114,6 +12114,7 @@ domain:infocert.digital
 domain:infocert.it
 domain:infoglobo.com.br
 domain:infolinker.com.tw
+domain:infoq.com
 domain:infoq.jp
 domain:informs.org
 domain:infosec.exchange
@@ -16844,6 +16845,7 @@ domain:nxta.org
 domain:nxtdig.com.hk
 domain:nxtdig.com.tw
 domain:assets.nxtrace.org
+domain:nxtv.jp
 domain:nyaa.eu
 domain:nyaa.net
 domain:nyaa.si
@@ -22711,6 +22713,9 @@ domain:uncyclopedia.tw
 domain:underhentai.net
 domain:underlords.com
 domain:underwoodammo.com
+domain:unext-info.jp
+domain:unext.co.jp
+domain:unext.jp
 domain:unfiltered.news
 domain:unholyknight.com
 domain:cldr.unicode.org
