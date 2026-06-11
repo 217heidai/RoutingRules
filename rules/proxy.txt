@@ -1473,6 +1473,7 @@ domain:allinternal.com
 domain:allizom.net
 domain:allizom.org
 domain:alljapanesepass.com
+domain:allkeyshop.com
 domain:allmomsex.com
 domain:allmovie.com
 domain:allover30.com
@@ -2710,6 +2711,7 @@ domain:avdudu.top
 domain:avdwang.xyz
 domain:avelip.com
 domain:aventertainments.com
+domain:avermedia.com
 domain:aversbank.ru
 domain:avfox.cc
 domain:avg.com
@@ -3503,6 +3505,7 @@ domain:beurettesvideo.com
 domain:bextbuy.com
 domain:beyondcore.com
 domain:bfa.ru
+domain:bfads.net
 domain:bffshd.com
 domain:bfnn.org
 domain:bfsh.hk
@@ -4713,6 +4716,7 @@ domain:buypass-ssl.com
 domain:buypass.com
 domain:buypass.no
 domain:buypass.se
+domain:buyservices.com
 domain:buyshoponly.com
 domain:buzzardflapper.com
 domain:buzzav.com
@@ -5706,6 +5710,7 @@ domain:coinbase.com
 domain:coinbene.com
 domain:coindesk.com
 domain:coinex.com
+domain:coingate.com
 domain:coingecko.com
 domain:coingi.com
 domain:coinglass.com
@@ -6757,6 +6762,9 @@ domain:discountbeatsbydre-us.com
 domain:discountbeatsstore.com
 domain:discountedporn.com
 domain:discountporn.club
+domain:discourse-cdn.com
+domain:discourse.group
+domain:discourse.org
 domain:discovershiretoko.org
 domain:discoveryplus.com
 domain:discreet.com
@@ -7387,6 +7395,10 @@ domain:eater.com
 domain:academic.eb.com
 domain:ebahy.com
 domain:ebalovo.com
+domain:ebates.ca
+domain:ebates.kr
+domain:ebates.sg
+domain:ebatescanada.com
 domain:ebay-authenticate.net
 domain:ebay-confirm.com
 domain:ebay-course.com
@@ -7568,6 +7580,7 @@ domain:ebscohost.com
 domain:ebtcbank.com
 domain:ebuyer.com
 domain:ebuyheadphones.com
+domain:ecbsn.com
 domain:ecchinohentai.ru
 domain:ecert.gov.hk
 domain:ecfa.org.tw
@@ -7650,6 +7663,7 @@ domain:electronicarts.com
 domain:electronicarts.fr
 domain:electronicsignature.ru
 domain:electronjs.org
+domain:elegantthemes.com
 domain:element.io
 domain:elementary.io
 domain:elephantlist.com
@@ -7669,6 +7683,7 @@ domain:elitebabes.com
 domain:eliteindianporn.com
 domain:elitvip.ru
 domain:elixir-lang.org
+domain:zklighter.elliot.ai
 domain:elog-ch.com
 domain:elog-ch.net
 domain:elpais.com
@@ -8527,6 +8542,7 @@ domain:fasttext.cc
 domain:fasttrackreadysupport.com
 domain:fatbtc.com
 domain:fatstube.com
+domain:fatwallet.com
 domain:favebook.com
 domain:favelaporno.com
 domain:favepornmovs.com
@@ -8668,6 +8684,7 @@ domain:fic.fan
 domain:ficador.com
 domain:ficbook.net
 domain:ficeboock.com
+domain:ficgs.com
 domain:ficmania.com
 domain:fictionmania.tv
 domain:fifastreet.com
@@ -9356,6 +9373,7 @@ domain:fulloutsourcing.jp
 domain:fullpornnetwork.com
 domain:fullservicegame.com
 domain:fullsexmovs.com
+domain:fullstory.com
 domain:fulltaboo.tv
 domain:fullxxxmovies.net
 domain:wikiless.funami.tech
@@ -9477,7 +9495,9 @@ domain:gamesfirsthelsinki.com
 domain:gamesfuckgirls.com
 domain:gamesofdesire.com
 domain:gamespark.jp
+domain:gamesplanet.com
 domain:gamesstack.com
+domain:gametap.com
 domain:gameuxmasterguide.com
 domain:gamez.com.tw
 domain:gaming-notebooks.com
@@ -9749,6 +9769,7 @@ domain:gfwbao.com
 domain:gfx.ms
 domain:gfycat.com
 domain:gfysex.com
+domain:gg.deals
 domain:ggdiao.com
 domain:ggjav.com
 domain:ggoogle.com
@@ -9761,6 +9782,7 @@ domain:ggssl.com
 domain:gh.io
 domain:ghbi.ir
 domain:ghcr.io
+domain:ghe.com
 domain:ghettotube.com
 domain:ghidra-sre.org
 domain:ghostarchive.org
@@ -10354,6 +10376,7 @@ domain:gov.tw
 domain:governmentengineer.com
 domain:govforce.com
 domain:gpb.ru
+domain:gpstatic.com
 domain:gpstheseries.com
 domain:gputechconf.co.kr
 domain:gputechconf.com
@@ -11595,6 +11618,7 @@ domain:hydrogenaud.io
 domain:hyper.is
 domain:hyperbeam.com
 domain:hyperdreams.com
+domain:hyperliquid.xyz
 domain:hyperrate.com
 domain:hyperscan.io
 domain:hypnohub.net
@@ -13458,6 +13482,7 @@ domain:kingkongapp.com
 domain:kingofpics.com
 domain:kingstagram.com
 domain:kingstone.com.tw
+domain:kinguin.net
 domain:kinguno.xyz
 domain:kink.com
 domain:kinkbook.com
@@ -13807,6 +13832,8 @@ domain:lifestyle-tec.ru
 domain:lifewire.com
 domain:lightbridge.com
 domain:lighten.org.tw
+domain:lighter.exchange
+domain:lighter.xyz
 domain:lighti.me
 domain:lightnovel.cn
 domain:lightxxxtube.com
@@ -16261,7 +16288,9 @@ domain:nexo.io
 domain:nexon.co.jp
 domain:nexon.com
 domain:nexon.io
+domain:nexon.net
 domain:nexoncdn.co.kr
+domain:nexongames.co.kr
 domain:nexpart.com
 domain:nexpart.tv
 domain:next.com
@@ -16328,6 +16357,9 @@ domain:nhentai.xxx
 domain:nhentaihaven.com
 domain:nhentaihaven.org
 domain:nheos.com
+domain:nhk.jp
+domain:nhk.or.jp
+domain:nhkworld.jp
 domain:nhncorp.jp
 domain:ntp.nic.cz
 domain:nic.gov
@@ -18941,7 +18973,10 @@ domain:rakuten.co.jp
 domain:rakuten.com
 domain:rakuten.com.tw
 domain:rakuten.ne.jp
+domain:rakuten.tv
 domain:rakuten.tw
+domain:rakutenadvertising.com
+domain:rakutengiftcards.ca
 domain:rakuya.com.tw
 domain:ramcity.com.au
 domain:randyblue.com
@@ -19391,6 +19426,7 @@ domain:rplay.live
 domain:rpmfusion.org
 domain:rprimelab.com
 domain:rqbank.ir
+domain:rrcbsn.com
 domain:rrl28.buzz
 domain:rrs1.xyz
 domain:rrtis.com
@@ -23198,6 +23234,7 @@ domain:viewgals.com
 domain:viewpointsfromfacebook.com
 domain:vigorgame.com
 domain:viju.ru
+domain:viki.com
 domain:vikiporn.com
 domain:vilanet.me
 domain:vilavpn.com
@@ -24359,6 +24396,7 @@ domain:woolitecarpet.com
 domain:woolyss.com
 domain:woopie.jp
 domain:woopie.tv
+domain:wordcamp.org
 domain:wordpress.com
 domain:wordpress.net
 domain:wordpress.org
