@@ -16706,6 +16706,7 @@ domain:nsfw.xxx
 domain:nsfw247.to
 domain:nsfwmemes.com
 domain:nsimg.net
+domain:nspk.ru
 domain:ntc.party
 domain:ntd.com
 domain:ntd.tv
