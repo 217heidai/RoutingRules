@@ -103,7 +103,6 @@ domain:hiwifi.com
 domain:home.arpa
 domain:kis.v2.scr.kaspersky-labs.com
 domain:leike.cc
-domain:miwifi.com
 domain:peiluyou.com
 domain:phicomm.me
 domain:plex.direct
