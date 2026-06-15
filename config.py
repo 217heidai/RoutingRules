@@ -56,5 +56,6 @@ white_private = {
     "msftncsi.com",
     "msftconnecttest.com",
     "captive.apple.com",
-    "ping.archlinux.org"
+    "ping.archlinux.org",
+    "miwifi.com"
 }
