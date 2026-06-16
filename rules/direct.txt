@@ -7935,7 +7935,6 @@ domain:68716871.com
 domain:68792999.com
 domain:6887cc57c10251.beer
 domain:6888.tv
-domain:6888.xn--vhquv
 domain:688dns.com
 domain:688mob.com
 domain:688wz.net
@@ -10443,6 +10442,7 @@ domain:9yue.com
 domain:9yuntu.com
 domain:9yuonline.com
 domain:9yz.com
+domain:9zadx.com
 domain:9zas5.com
 domain:9zhen.com
 domain:9znet.com
@@ -12250,6 +12250,7 @@ domain:alidayu.com
 domain:aliddmall.com
 domain:alidns.com
 domain:alidns.net
+domain:alidnsv4.com
 domain:aliedge.com
 domain:aliensidea.com
 domain:alientek.com
@@ -15460,6 +15461,7 @@ domain:bb39977653.com
 domain:bb3a14ca57af4d81.com
 domain:bb52e27c75560d3f.com
 domain:bb730b04b6cc8c57.com
+domain:bb888xx999.com
 domain:bbanp.com
 domain:bbaod.com
 domain:bbaqw.com
@@ -17211,6 +17213,7 @@ domain:bjhwtx.com
 domain:bjhwxy.com
 domain:bjhx110.com
 domain:bjhxqh.com
+domain:bjhxwl.xyz
 domain:bjhxzlyy.com
 domain:bjhytjxjg.com
 domain:bjhzzs.com
@@ -31475,6 +31478,7 @@ domain:dumasoftware.com
 domain:dumi0898.com
 domain:dumpapp.com
 domain:dun.la
+domain:dun222.com
 domain:dun555.com
 domain:dun599.com
 domain:dunan.net
@@ -41944,6 +41948,7 @@ domain:gxldzn.com
 domain:gxlecheng.com
 domain:gxlek.com
 domain:gxlelin.com
+domain:gxlepanjun.com
 domain:gxlfzl.com
 domain:gxlgwl.com
 domain:gxlgxx.com
@@ -51318,6 +51323,7 @@ domain:igelou.com
 domain:igenetech.com
 domain:igengmei.com
 domain:igeshui.com
+domain:igetcool.com
 domain:igetget.com
 domain:igetmall.net
 domain:igetui.com
@@ -58871,6 +58877,7 @@ domain:khotyn.com
 domain:khqihuo.com
 domain:khruiming.com
 domain:khs1994.com
+domain:khvle.com
 domain:khysct.com
 domain:ki-pa.com
 domain:kiaic.com
@@ -60039,6 +60046,7 @@ domain:kuocaicdn.com
 domain:kuocaidns.com
 domain:kuocaiyun.com
 domain:kuoo8.com
+domain:kuos.xyz
 domain:kuosheng.com
 domain:kuosheng.net
 domain:kuotu.com
@@ -62173,6 +62181,7 @@ domain:linfan.com
 domain:linfeicloud.com
 domain:linfen365.com
 domain:linfeng.tech
+domain:linfengnet.com
 domain:linfenwater.net
 domain:ling-shi.com
 domain:lingangholding.com
@@ -79158,6 +79167,7 @@ domain:ruubypay.com
 domain:ruvar.com
 domain:ruwen5.org
 domain:ruxiaoyi.com
+domain:ruyi.ai
 domain:ruyig.com
 domain:ruyigou.com
 domain:ruyile.com
@@ -85034,6 +85044,7 @@ domain:sooal.com
 domain:sooauto.com
 domain:soochowchem.com
 domain:soocor.com
+domain:sood6.com
 domain:sooele.com
 domain:soofel.com
 domain:soogf.com
@@ -86975,6 +86986,7 @@ domain:syitgz.com
 domain:syjcly.com
 domain:syjcxh.com
 domain:syjiancai.com
+domain:syjiaotong.mobi
 domain:syjkqzw.com
 domain:syjlp.com
 domain:syjsq.com
@@ -92512,6 +92524,7 @@ domain:uccastore.com
 domain:uccbikes.com
 domain:uccpd.com
 domain:ucdchina.com
+domain:ucdns7.com
 domain:ucdok.com
 domain:ucdrs.net
 domain:ucfly.com
@@ -99821,6 +99834,7 @@ domain:xiaoe-materials.com
 domain:xiaoe-tech.com
 domain:xiaoe-tools.com
 domain:xiaoecloud.com
+domain:xiaoedata.com
 domain:xiaoeeye.com
 domain:xiaoeknow.com
 domain:xiaoenai.com
@@ -101928,6 +101942,7 @@ domain:xqbase.com
 domain:xqblog.com
 domain:xqbssj.com
 domain:xqce.com
+domain:xqdaolove.com
 domain:xqdgroup.com
 domain:xqdjkwz.com
 domain:xqfunds.com
@@ -107397,6 +107412,7 @@ domain:yuqianshu.com
 domain:yuqiao.com
 domain:yuqiaolong.com
 domain:yuqinpin.com
+domain:yuqncloud.com
 domain:yuquanhosp.com
 domain:yuque.com
 domain:yur09130og.com
