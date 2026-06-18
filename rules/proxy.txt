@@ -33,6 +33,7 @@ full:default.exp-tas.com
 full:holoxx.f5.si
 full:straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 full:deutschewelle.h-cdn.com
+full:supercell.helpshift.com
 full:rsshub.henry.wang
 full:rink.hockeyapp.net
 full:a4e8s8k3.map2.ssl.hwcdn.net
@@ -1930,6 +1931,7 @@ domain:appbridge.io
 domain:appbridge.it
 domain:appcenter.ms
 domain:appcloud.com
+domain:appconsent.io
 domain:appdomain.cloud
 domain:appdynamics.co.uk
 domain:appdynamics.com
@@ -2819,6 +2821,7 @@ domain:awwcn.buzz
 domain:awwcn.xyz
 domain:awxcdn.com
 domain:axbdoll.com.tw
+domain:axept.io
 domain:axios.com
 domain:axureformac.com
 domain:ayabank.com
@@ -5110,6 +5113,7 @@ domain:cdjp.org
 domain:cdkworkshop.com
 domain:cdmatech.com
 domain:cdn-apple.com
+domain:cdn-cookieyes.com
 domain:cdn-telegram.org
 domain:cdn-terapeak.com
 domain:cdn-tinkoff.ru
@@ -5839,6 +5843,7 @@ domain:conoha.jp
 domain:conquerwithcharacter.com
 domain:conscrypt.com
 domain:conscrypt.org
+domain:consentmanager.net
 domain:consentpro.com
 domain:constructware.com
 domain:consul.io
@@ -5848,9 +5853,11 @@ domain:contechacademy.com
 domain:contentful.com
 domain:contest.com
 domain:convrgencegame.com
+domain:cookiebot.com
 domain:cookiechoices.org
 domain:cookielaw.org
 domain:cookiepro.com
+domain:cookieyes.com
 domain:cool-comics.com
 domain:cool18.com
 domain:cool3c.com
@@ -10814,7 +10821,6 @@ domain:hellosmartbook.com
 domain:hellporno.com
 domain:hellven.net
 domain:helpeachpeople.com
-domain:supercell.helpshift.com
 domain:helpster.de
 domain:hembed.com
 domain:hentai-ani.me
@@ -21741,6 +21747,7 @@ domain:terapeak.info
 domain:teraperk.com
 domain:terk.nl
 domain:termius.com
+domain:termly.io
 domain:termux.com
 domain:termux.dev
 domain:termux.org
@@ -22396,6 +22403,7 @@ domain:truefi.io
 domain:truenas.com
 domain:trunest.com
 domain:trust-provider.com
+domain:trustarc.com
 domain:trustcor.ca
 domain:trustcor.com
 domain:trustdoc.ch
