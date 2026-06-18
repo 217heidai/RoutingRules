@@ -3205,6 +3205,7 @@ domain:1ggame.com
 domain:1gow.net
 domain:1haigtm.com
 domain:1haitao.com
+domain:1haitun.com
 domain:1hangye.com
 domain:1haogu.com
 domain:1haosuo.com
@@ -25690,6 +25691,7 @@ domain:copywatchstyle.com
 domain:cor-games.com
 domain:coralset.com
 domain:core-biopharma.com
+domain:core-flow.org
 domain:corebai.com
 domain:coreesports.net
 domain:corehalo.com
@@ -30844,6 +30846,7 @@ domain:doteck.com
 domain:dotgate.com
 domain:dothantech.com
 domain:doticloud.com
+domain:dotreamexpo.com
 domain:dotty-china.com
 domain:dotwe.org
 domain:dou.bz
@@ -32824,6 +32827,7 @@ domain:effapp.com
 domain:efficient.hk
 domain:effirst.com
 domain:efglobal-gy.com
+domain:efindtravel.com
 domain:efivestar.com
 domain:efl-tech.com
 domain:eflagcomm.com
@@ -37305,6 +37309,7 @@ domain:gajsk.com
 domain:gal3d.info
 domain:gala-v.com
 domain:galaxix.com
+domain:galaxy-adx.com
 domain:galaxy-geely.com
 domain:galaxy-immi.com
 domain:galaxyappstore.com
@@ -43294,6 +43299,7 @@ domain:gzsg.org
 domain:gzsgczb.com
 domain:gzshaudio.com
 domain:gzsheraton.com
+domain:gzshik.com
 domain:gzshiran.com
 domain:gzshuangbao.com
 domain:gzshuimh.com
@@ -62199,6 +62205,7 @@ domain:lingxicloud.com
 domain:lingxigames.com
 domain:lingxing.com
 domain:lingxingkj.com
+domain:lingxingxinli.com
 domain:lingxiuwenlv.com
 domain:lingxmall.com
 domain:lingy.cc
@@ -67344,6 +67351,7 @@ domain:moe.tips
 domain:moe.xin
 domain:moe123.com
 domain:moe123.org
+domain:moe233.org
 domain:moe321.com
 domain:moeclub.org
 domain:moedot.net
@@ -78964,6 +78972,7 @@ domain:ruixuncw.com
 domain:ruixunidc.com
 domain:ruixunidc.net
 domain:ruiyang-ra.com
+domain:ruiying.online
 domain:ruiying3d.com
 domain:ruiyingkeji.com
 domain:ruiyitech.com
@@ -92175,6 +92184,7 @@ domain:typhoon.vip
 domain:typicalchn.com
 domain:typora.net
 domain:typrotech.com
+domain:typstify.com
 domain:tyqian.com
 domain:tyqxzx.com
 domain:tyrantg.com
@@ -92426,6 +92436,7 @@ domain:uccastore.com
 domain:uccbikes.com
 domain:uccpd.com
 domain:ucdchina.com
+domain:ucdns22.com
 domain:ucdns7.com
 domain:ucdok.com
 domain:ucdrs.net
@@ -99767,6 +99778,7 @@ domain:xiaohe-jiankang.com
 domain:xiaohe666.com
 domain:xiaoheihegame.com
 domain:xiaoheima.com
+domain:xiaoheiribao.com
 domain:xiaohelive.com
 domain:xiaohengmaidan.com
 domain:xiaohi.cc
@@ -102715,6 +102727,7 @@ domain:xyhtml5.com
 domain:xyhygs.com
 domain:xyict.com
 domain:xyimg.net
+domain:xyingsoft.com
 domain:xyj.link
 domain:xyj321.com
 domain:xyj618.com
@@ -112124,6 +112137,7 @@ domain:zuiyouxi.com
 domain:zuizhifu.com
 domain:zuji360.com
 domain:zujiant.com
+domain:zujingpai.com
 domain:zujuan.com
 domain:zujuanku.com
 domain:zujuanyi.com
