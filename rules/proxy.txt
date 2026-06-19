@@ -2256,6 +2256,8 @@ domain:applw.com
 domain:appmedia.jp
 domain:appmediagroup.com
 domain:approvedusedbmw.com
+domain:9oju31.launches.appsflyersdk.com
+domain:sgqt0j.launches.appsflyersdk.com
 domain:xhpjc6-cdn-settings.appsflyersdk.com
 domain:appshopper.com
 domain:appsmail.ru
@@ -9442,9 +9444,21 @@ domain:futhead.com
 domain:adult789.futoka.jp
 domain:futpromos.com
 domain:futu.cn
+domain:futu.com
 domain:futu.link
+domain:futu0.com
+domain:futu1.com
+domain:futu2.com
+domain:futu3.com
+domain:futu4.com
 domain:futu5.com
+domain:futu6.com
+domain:futu7.com
+domain:futu8.com
+domain:futu9.com
 domain:futuau.com
+domain:futubull.cn
+domain:futuchain.com
 domain:futuesop.com
 domain:futufin.com
 domain:futuhk.com
@@ -9453,6 +9467,7 @@ domain:futuhk2.com
 domain:futuhkapp.com
 domain:futuhn.com
 domain:futuholdings.com
+domain:futuinc.com
 domain:futunited.com
 domain:futuniuniu.com
 domain:futunn.com
@@ -9466,6 +9481,7 @@ domain:futureshop.ca
 domain:futusg.com
 domain:futustatic.com
 domain:fututrade.com
+domain:fututrustee.com
 domain:fuxporn.com
 domain:fuzokudx.com
 domain:fw.cm
@@ -14093,6 +14109,7 @@ domain:longbridgehk.com
 domain:longmabook.com
 domain:longmabookcn.com
 domain:longman.ch
+domain:longportapp.cn
 domain:longportapp.com
 domain:longtailvideo.com
 domain:longtermly.net
@@ -15566,6 +15583,7 @@ domain:monthlyav.com
 domain:moodstocks.com
 domain:moodyz.com
 domain:moomoo.com
+domain:api.moomoobull.com
 domain:moomooequity.com
 domain:moomootrustee.com
 domain:moon.fm
@@ -18047,6 +18065,7 @@ domain:plasticlabs.com
 domain:plastics-cadcam.com
 domain:platiecom.ru
 domain:platinumlinks.org
+domain:cg.play-analytics.com
 domain:play-asia.com
 domain:play-bmm.shop
 domain:play-bmmer.buzz
@@ -18854,6 +18873,7 @@ domain:qattdh2.cc
 domain:qattdh6.top
 domain:qbittorrent.org
 domain:qbmengmei6.mom
+domain:shortconn.im.qcloud.com
 domain:qcmod.xyz
 domain:qcomgeo2.com
 domain:qctconnect.com
@@ -19858,6 +19878,7 @@ domain:schiffvitamins.com
 domain:scholarpedia.org
 domain:schwab.co.uk
 domain:schwab.com
+domain:schwab.com.cn
 domain:schwab.com.hk
 domain:schwab.com.sg
 domain:schwabassetmanagement.com
@@ -22097,6 +22118,10 @@ domain:tiffany-towers.com
 domain:tig-ol-bitties.live
 domain:tigerbbs.cn
 domain:tigerbbs.com
+domain:tigerbrokers.com
+domain:tigerbrokers.net
+domain:tigerbrokers.nz
+domain:tigerfintech.com
 domain:tigervpn.com
 domain:tik-tokapi.com
 domain:tiktok-minis.com
@@ -22331,6 +22356,7 @@ domain:tracfone.com
 domain:tracker.gg
 domain:tracker.network
 domain:tracking-location.com
+domain:tradeup.com
 domain:tradevip1.com
 domain:tradingview.com
 domain:trae.ai
@@ -25911,6 +25937,8 @@ domain:zhanlve.org
 domain:zhengjian.org
 domain:zhengwunet.org
 domain:zhenxiang.biz
+domain:zhijianfengyi.cn
+domain:zhijianfengyi.com
 domain:zhimeishe888.com
 domain:zhizhu.top
 domain:zhongguo.ca
