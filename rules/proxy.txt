@@ -770,6 +770,7 @@ domain:accomable.com
 domain:account-paypal.info
 domain:account-paypal.net
 domain:account-paypal.org
+domain:accountboy.com
 domain:accountkit.com
 domain:accountpaypal.com
 domain:accountpaypal.net
@@ -6629,6 +6630,7 @@ domain:devv.ai
 domain:dewitwithdurex.com
 domain:dexterhorn.com
 domain:dezyred.com
+domain:dfvpn.com
 domain:dgaqp.com
 domain:dgg.gg
 domain:dgwav.com
@@ -9540,6 +9542,7 @@ domain:gamesplanet.com
 domain:gamesstack.com
 domain:gametap.com
 domain:gameuxmasterguide.com
+domain:gamewtb.com
 domain:gamez.com.tw
 domain:gaming-notebooks.com
 domain:gandhara.ru
@@ -10030,6 +10033,7 @@ domain:gobuildx.net
 domain:gobuyonlinestore.net
 domain:gockhuatviet.com
 domain:godaddy.com
+domain:godaddy.net
 domain:godbolt.org
 domain:godfootsteps.org
 domain:godoc.org
@@ -21621,6 +21625,7 @@ domain:taxitax.org
 domain:taylorandfrancis.com
 domain:taylorfrancis.com
 domain:tb-esim.ru
+domain:tb.pro
 domain:tbank-online.com
 domain:tbank.ru
 domain:tbcollege.org
@@ -22021,6 +22026,7 @@ domain:thumbnailseries.com
 domain:thumbzilla.com
 domain:thunderbird.net
 domain:thunderbolttechnology.net
+domain:thundermail.com
 domain:thywords.com
 domain:thz7.net
 domain:thzu.cc
@@ -24536,6 +24542,7 @@ domain:wrenchead.com
 domain:writesonic.com
 domain:ws-blau.com
 domain:ws-tcg.com
+domain:wsimg.com
 domain:wsj.com
 domain:wsj.jobs
 domain:wsj.net
@@ -24897,6 +24904,7 @@ domain:xn--ubt498knmf.com
 domain:xn--uis17aj9kmuf.com
 domain:xn--uis44a.xn--j6w193g
 domain:xn--urs05q.jp
+domain:xn--vuqv2cf7wzyig79c.com
 domain:xn--wcv22d.hk
 domain:xn--wcv22d.xn--j6w193g
 domain:xn--wcvs22d.xn--j6w193g
