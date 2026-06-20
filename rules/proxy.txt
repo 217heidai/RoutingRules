@@ -3592,6 +3592,7 @@ domain:bild.de
 domain:bili2.cc
 domain:bili888.com
 domain:bili999.com
+domain:bilinovel.com
 domain:biliplus.com
 domain:biliworld.com
 domain:bill-safe.com
