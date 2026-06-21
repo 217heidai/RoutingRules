@@ -31,6 +31,7 @@ full:rsshub.email-once.com
 full:cisco.evergage.com
 full:default.exp-tas.com
 full:holoxx.f5.si
+full:gog-cdn-lumen.secure2.footprint.net
 full:straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 full:deutschewelle.h-cdn.com
 full:supercell.helpshift.com
