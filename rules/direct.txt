@@ -66378,6 +66378,7 @@ domain:storecorefulfillment.download.prss.microsoft.com
 domain:storeedge.microsoft.com
 domain:storeedgefd.dsx.mp.microsoft.com
 domain:surface.download.prss.microsoft.com
+domain:surface.downloads.prss.microsoft.com
 domain:vlportal.download.prss.microsoft.com
 domain:volic.download.prss.microsoft.com
 domain:vscode.download.prss.microsoft.com
@@ -71488,6 +71489,10 @@ domain:offerpluscn.com
 domain:offersloc.com
 domain:offerstrack.net
 domain:office-cn.net
+domain:b.c2r.ts.cdn.office.net
+domain:f.c2r.ts.cdn.office.net
+domain:shell.cdn.office.net
+domain:statics.teams.cdn.office.net
 domain:office68.com
 domain:office8hour.com
 domain:officeaid.com
