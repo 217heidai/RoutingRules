@@ -10060,8 +10060,10 @@ domain:gofile.me
 domain:gofucker.com
 domain:gofuckmenow.com
 domain:gofundme.com
+domain:gog-services.com
 domain:gog-statics.com
 domain:gog.com
+domain:gogalaxy.com
 domain:gogettaxi.org
 domain:gogle.com
 domain:gogo-load.com
