@@ -11032,6 +11032,7 @@ domain:adxmax.com
 domain:adxmq.com
 domain:adxpand.com
 domain:adxqd.com
+domain:adxsenmeng.com
 domain:adxvip.com
 domain:adxwork.com
 domain:adxyun.com
@@ -12207,6 +12208,7 @@ domain:aliddmall.com
 domain:alidns.com
 domain:alidns.net
 domain:alidnsv4.com
+domain:alidnsv5.com
 domain:aliedge.com
 domain:aliensidea.com
 domain:alientek.com
@@ -80977,6 +80979,7 @@ domain:sf-laas.com
 domain:sf-pay.com
 domain:sf-saas.com
 domain:sf-zs.net
+domain:sf.global
 domain:sf007.com
 domain:sf024.com
 domain:sf2021.com
@@ -88538,6 +88541,7 @@ domain:tcnews.cc
 domain:tcnvmms.com
 domain:tcoejox.shop
 domain:tcomall.com
+domain:tcp-crm.com
 domain:tcp.hk
 domain:tcp.mk
 domain:tcp.pub
