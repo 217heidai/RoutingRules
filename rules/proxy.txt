@@ -5887,6 +5887,7 @@ domain:coomer.su
 domain:coova.com
 domain:coova.net
 domain:coova.org
+domain:copilot.com
 domain:copro.pw
 domain:copy-manga.com
 domain:copy20.com
@@ -24214,6 +24215,7 @@ domain:webpkgcache.com
 domain:steam.cdn.webra.ru
 domain:webrtc.org
 domain:websdr.org
+domain:webshare.io
 domain:website.new
 domain:www.websnapr.com
 domain:webtoons.com
