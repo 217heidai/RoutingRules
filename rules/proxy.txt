@@ -2,7 +2,6 @@ full:rss.4040940.xyz
 full:bybit.ada.support
 full:gitlab-assets.oss-cn-hongkong.aliyuncs.com
 full:vsmarketplacebadge.apphb.com
-full:ingest.apple-studies.com
 full:roovza-launches.appsflyersdk.com
 full:roovza.inapps.appsflyersdk.com
 full:roovza.launches.appsflyersdk.com
@@ -1970,6 +1969,7 @@ domain:apple-pay.rs
 domain:apple-pay.wang
 domain:apple-store.net
 domain:apple-store.wang
+domain:apple-studies.com
 domain:apple-usa.net
 domain:apple.ae
 domain:apple.at
@@ -2472,6 +2472,7 @@ domain:atlasonepoint.com
 domain:atlassian-dev.net
 domain:atlassian.com
 domain:atlassian.net
+domain:atmeta.com
 domain:atnext.com
 domain:atokara.jp
 domain:atom.io
@@ -2847,6 +2848,7 @@ domain:azbukainterneta.ru
 domain:aziani.com
 domain:azirevpn.com
 domain:aznude.com
+domain:azure-api.net
 domain:azure-devices-int.net
 domain:azure-devices.net
 domain:azure-dns.com
@@ -2884,6 +2886,7 @@ domain:azureplanetscale.net
 domain:azureserviceprofiler.com
 domain:azuresmartspaces.net
 domain:azurestackvalidation.com
+domain:azurestaticapps.net
 domain:azurewebsites.net
 domain:b-cdn.net
 domain:b-eroland.net
