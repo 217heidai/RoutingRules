@@ -17592,6 +17592,8 @@ domain:patreoncommunity.com
 domain:patreonusercontent.com
 domain:paulsimon-music.com
 domain:pavpal.com
+domain:pawchive.pw
+domain:pawchive.st
 domain:pawoo.net
 domain:paxful.com
 domain:paxlicense.org
