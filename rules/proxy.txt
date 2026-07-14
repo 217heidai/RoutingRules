@@ -5241,6 +5241,7 @@ domain:charticulator.com
 domain:chat.com
 domain:chatango.com
 domain:chatgpt.com
+domain:chatgpt.site
 domain:chatgptvideo.xyz
 domain:chatgptvideob.buzz
 domain:chatpdf.com
@@ -13521,6 +13522,7 @@ domain:khatrimaza.org
 domain:khotruyentranhx.com
 domain:kichiku-doujinko.com
 domain:kichikuou.com
+domain:kick.com
 domain:kickporn.com
 domain:kickshatchannel.com
 domain:kicksnike1.com
