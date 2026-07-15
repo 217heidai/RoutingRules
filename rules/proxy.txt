@@ -61,8 +61,12 @@ full:firstsearch.oclc.org
 full:ood.opsource.net
 full:rss.owo.nz
 full:live-patreon-marketing.pantheonsite.io
+full:hb4bbbbb.pmhcjk.com
+full:nbbb1bb7.pmhcjk.com
+full:q676790b.pmhcjk.com
 full:deribit.cdn.prismic.io
 full:rsshub.pseudoyu.com
+full:agb9r0ad.qllfkl.com
 full:ubisoft.siteintercept.qualtrics.com
 full:rsshub.rss.tips
 full:rsshub.rssforever.com
@@ -4341,6 +4345,7 @@ domain:bnext.com.tw
 domain:bnn.co
 domain:bnrmetal.com
 domain:bntrace.com
+domain:bnxz.net
 domain:boardreader.com
 domain:boboporn.com
 domain:boboporn.net
@@ -4786,6 +4791,7 @@ domain:bynet.co.il
 domain:bypasscensorship.org
 domain:byrut.org
 domain:byspotify.com
+domain:bystys.tech
 domain:bytedapm.com
 domain:byteoversea.com
 domain:bytick.com
@@ -13946,7 +13952,14 @@ domain:lightyearvpn.com
 domain:lih.kg
 domain:lihkg.com
 domain:lihksnap.com
+domain:like-video.com
 domain:like.com
+domain:like.video
+domain:likee.com
+domain:likee.video
+domain:likeeapp.ru
+domain:likeevideo.com
+domain:likeevideo.ru
 domain:likeseiyu.com
 domain:liketruyen.net
 domain:liketwice.com
@@ -17446,6 +17459,7 @@ domain:ovpn.com
 domain:ow.ly
 domain:owl.li
 domain:owltail.com
+domain:owxd.xyz
 domain:oxfordaasc.com
 domain:oxfordartonline.com
 domain:oxfordbibliographies.com
@@ -23071,6 +23085,7 @@ domain:test-ipv6.csclub.uwaterloo.ca
 domain:uweb.ru
 domain:uwpcommunitytoolkit.com
 domain:uxthemes.com
+domain:uxzw.club
 domain:uyghur-j.org
 domain:uyghuraa.org
 domain:uyghuramerican.org
@@ -25899,6 +25914,7 @@ domain:yt.be
 domain:ytimg.com
 domain:ytn.co.kr
 domain:yuanming.net
+domain:yucf.top
 domain:yuenuge113.xyz
 domain:yuenuge18.cc
 domain:yugioh-card.com
