@@ -76,7 +76,6 @@ full:cbsplaylistserver.aws.syncbak.com
 full:cbsservice.aws.syncbak.com
 full:link.theplatform.com
 full:medone-education.thieme.com
-full:tesla-cdn.thron.com
 full:ntp.time.nl
 full:ntp1.time.nl
 full:ntp2.time.nl
@@ -2881,6 +2880,7 @@ domain:azuredns-prd.info
 domain:azuredns-prd.org
 domain:azureedge-test.net
 domain:azureedge.net
+domain:azureedge.us
 domain:azurefd.net
 domain:azureiotcentral.com
 domain:azureiotsolutions.com
@@ -5900,6 +5900,7 @@ domain:coomer.su
 domain:coova.com
 domain:coova.net
 domain:coova.org
+domain:copilot-stg.com
 domain:copilot.com
 domain:copro.pw
 domain:copy-manga.com
@@ -14927,6 +14928,7 @@ domain:mgstage.com
 domain:mh4u.org
 domain:mhcb.ru
 domain:mhcbr.ru
+domain:mhgui.com
 domain:mhhanman.xyz
 domain:mhqwe.xyz
 domain:mhradio.org
@@ -21227,6 +21229,7 @@ domain:starfieldtech.com
 domain:starfox.com
 domain:stargazer-games.com
 domain:stark-verlag.ch
+domain:starlink.com
 domain:starott.com
 domain:starp2p.com
 domain:starplus.com
