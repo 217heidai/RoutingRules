@@ -22329,6 +22329,7 @@ domain:ntp2.tohoku.ac.jp
 domain:tok.media
 domain:token.im
 domain:tokenlon.im
+domain:tokenplus.app
 domain:tokyo-hot.com
 domain:tokyo-porn-tube.com
 domain:tokyo-sports.co.jp
