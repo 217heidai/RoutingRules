@@ -5466,6 +5466,7 @@ domain:cinemax.com
 domain:cinepornogratis.com
 domain:cinny.in
 domain:cios.org
+domain:circle19.org
 domain:cirosantilli.com
 domain:cisco-returns.com
 domain:cisco-warrantyfinder.com
@@ -6998,6 +6999,7 @@ domain:doclercdn.com
 domain:docs.com
 domain:docs.new
 domain:docs.rs
+domain:docs.rw
 domain:doctor-videos.com
 domain:documentforce.com
 domain:documentingreality.com
@@ -13434,6 +13436,7 @@ domain:kaotic.com
 domain:karabako-gmo.com
 domain:karafarinbank.ir
 domain:karayou.com
+domain:kards.com
 domain:karechat.ai
 domain:karger.com
 domain:karinahart.com
@@ -14120,6 +14123,7 @@ domain:localizestatus.com
 domain:localpresshk.com
 domain:localxlist.org
 domain:lockestek.com
+domain:log.rw
 domain:logi.com
 domain:logicool.co.jp
 domain:logicoolg.com
@@ -22560,6 +22564,7 @@ domain:truyenhentai.xyz
 domain:truyenkk1.com
 domain:truyentranh86.com
 domain:truyenwk.com
+domain:try.rw
 domain:tryalias.com
 domain:tryboobs.com
 domain:trycloudflare.com
