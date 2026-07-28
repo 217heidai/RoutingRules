@@ -9967,6 +9967,7 @@ domain:githubhackathon.com
 domain:githubnext.com
 domain:githubpreview.dev
 domain:githubstatus.com
+domain:githubsupport.com
 domain:githubuniverse.com
 domain:githubusercontent.com
 domain:gitlab-static.net
@@ -22565,6 +22566,7 @@ domain:truyenkk1.com
 domain:truyentranh86.com
 domain:truyenwk.com
 domain:try.rw
+domain:tryai.dev
 domain:tryalias.com
 domain:tryboobs.com
 domain:trycloudflare.com
