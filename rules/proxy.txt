@@ -817,6 +817,7 @@ domain:acrobat.com
 domain:acs.org
 domain:actalis.com
 domain:actalis.it
+domain:actifio.com
 domain:activelearnprimary.co.uk
 domain:activelearnprimary.com.au
 domain:activematter.game
@@ -13145,7 +13146,10 @@ domain:jessicaturner.com
 domain:jetbrains.ai
 domain:jetbrains.cloud
 domain:jetbrains.com
+domain:jetbrains.dev
 domain:jetbrains.net
+domain:jetbrains.org
+domain:jetbrains.ru
 domain:jetbrains.space
 domain:jetbrains.team
 domain:jetfuelapp.com
@@ -13704,6 +13708,8 @@ domain:korewaeroi.com
 domain:korona.com
 domain:koshelek.app
 domain:kostenlosepornoclips.com
+domain:kotl.in
+domain:kotlinconf.com
 domain:kotlinlang.org
 domain:koubaibu.jp
 domain:koukoku.jp
@@ -13731,6 +13737,7 @@ domain:ksescortclub.com
 domain:kspcoin.com
 domain:ksyp10.com
 domain:ktech.team
+domain:ktor.io
 domain:ktvu.com
 domain:ktzhk.com
 domain:ku77.xyz
@@ -16056,6 +16063,7 @@ domain:myhulu.com
 domain:myicloud.net
 domain:myiphide.com
 domain:myipod.net
+domain:myjetbrains.com
 domain:myjkwd.com
 domain:myjs.tw
 domain:mykomica.org
@@ -16892,6 +16900,7 @@ domain:ntdtv.se
 domain:ntdtvla.com
 domain:ntdvideo.tw
 domain:ntdvn.com
+domain:nthlink.com
 domain:ntl.fyi
 domain:ntnews.com.au
 domain:pool.ntp.org
@@ -17390,6 +17399,7 @@ domain:openweathermap.org
 domain:openweave.io
 domain:openwebster.com
 domain:openwrt.org
+domain:openxla.org
 domain:opera.com
 domain:opinionjournal.com
 domain:oppai-doga.info
@@ -21716,6 +21726,7 @@ domain:taleofthenight.com
 domain:talkatone.com
 domain:talkboxapp.com
 domain:talkcc.com
+domain:talkingkotlin.com
 domain:talkonly.net
 domain:talksport.com
 domain:tamilsexvideos.cc
