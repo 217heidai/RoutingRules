@@ -5557,7 +5557,6 @@ domain:clashmini.com
 domain:clashofclans.com
 domain:clashroyale.com
 domain:clashroyaleapp.com
-domain:www.clashverge.dev
 domain:clashyun.com
 domain:clasporno.org
 domain:classicalguitarblog.net
@@ -18922,7 +18921,6 @@ domain:punishworld.com
 domain:pure18.com
 domain:pureapk.com
 domain:pureconcepts.net
-domain:puredns.org
 domain:pureinsight.org
 domain:purelov5.com
 domain:purelyceleb.com
@@ -19144,7 +19142,6 @@ domain:radioaustralia.net.au
 domain:radiofarda.com
 domain:radioglobo.com.br
 domain:radiohilight.net
-domain:radiojar.com
 domain:radioline.co
 domain:radiomango.fm
 domain:radiomarsho.com
