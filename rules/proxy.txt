@@ -19509,6 +19509,7 @@ domain:reiporno.com
 domain:relateiq.com
 domain:religionnews.com
 domain:remirepo.net
+domain:remna.st
 domain:rencapbank.ru
 domain:renchead.com
 domain:rencredit.ru
@@ -24835,6 +24836,7 @@ domain:wpmailsmtp.com
 domain:wpoforum.com
 domain:wpvip.com
 domain:wrenchead.com
+domain:write.as
 domain:writesonic.com
 domain:ws-blau.com
 domain:ws-tcg.com
