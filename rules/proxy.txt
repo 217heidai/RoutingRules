@@ -19133,6 +19133,7 @@ domain:steam.eca.qtlglb.com
 domain:steam.naeu.qtlglb.com
 domain:steam.ru.qtlglb.com
 domain:qtrac.eu
+domain:quakemachinex.com
 domain:qualcomm-email.com
 domain:qualcomm-inc.com
 domain:qualcomm.co.id
