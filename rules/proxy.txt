@@ -37,6 +37,7 @@ full:rsshub.henry.wang
 full:rink.hockeyapp.net
 full:a4e8s8k3.map2.ssl.hwcdn.net
 full:f3b7q2p3.ssl.hwcdn.net
+full:p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
 full:imperial.insendi.com
 full:cbsi.live.ott.irdeto.com
 full:rsshub.isrss.com
@@ -21548,6 +21549,9 @@ domain:stripcamfun.com
 domain:stripchat.com
 domain:stripe-terminal-local-reader.net
 domain:stripe.com
+domain:stripe.dev
+domain:stripe.events
+domain:stripe.global
 domain:stripe.network
 domain:stripecdn.com
 domain:stripparadise.com
