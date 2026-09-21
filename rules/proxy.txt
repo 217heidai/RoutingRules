@@ -5772,6 +5772,7 @@ domain:code-class.ru
 domain:code.org
 domain:codeberg.org
 domain:codeberg.page
+domain:codebuff.com
 domain:codecademy.com
 domain:codeforaliving.io
 domain:codeforces.com
@@ -8911,10 +8912,12 @@ domain:fiotolia.com
 domain:fire-emblem-heroes.com
 domain:firearmsworld.net
 domain:firebase.com
+domain:firebase.dev
 domain:firebase.io
 domain:firebaseapp.com
 domain:firebaseio.com
 domain:fireemblemawakening.com
+domain:firefox-portal-detection.com
 domain:firefox.com
 domain:firefox.hu
 domain:firefoxtweetmachine.com
@@ -9333,6 +9336,7 @@ domain:freebigmovies.com
 domain:freebrowser.org
 domain:freebs.com
 domain:freebsd.org
+domain:freebuff.com
 domain:freecamsfan.com
 domain:freecartoons.biz
 domain:freechatnow.com
@@ -22064,6 +22068,7 @@ domain:textnow.com
 domain:textnow.me
 domain:texttobuy.org
 domain:texture.com
+domain:tfbnw.net
 domain:tfc-taiwan.org.tw
 domain:tferwq.com
 domain:tfhub.dev
