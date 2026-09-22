@@ -5438,6 +5438,7 @@ domain:chinesedemocracy.com
 domain:chinesegay.org
 domain:chinesen.de
 domain:chinesenews.net.au
+domain:chineseposters.net
 domain:chineseradioseattle.com
 domain:chinesespanking.com
 domain:chineseupress.com
@@ -16922,6 +16923,7 @@ domain:test-ipv6.noroutetohost.net
 domain:norsk.mobi
 domain:norton.com
 domain:nos.nl
+domain:note.com
 domain:notegpt.io
 domain:notepad-plus-plus.org
 domain:noticias-rt.com
