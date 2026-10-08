@@ -14944,6 +14944,7 @@ domain:meetyourdevices.com
 domain:mega.co.nz
 domain:mega.io
 domain:mega.nz
+domain:megaad.nz
 domain:megacamz.com
 domain:megaeth.com
 domain:megafilmporno.com
@@ -14954,11 +14955,13 @@ domain:megalodon.jp
 domain:megamarket.ru
 domain:megamarket.tech
 domain:megamon.co.kr
+domain:megapay.nz
 domain:megaphone.fm
 domain:megapornfreehd.com
 domain:megaporno.com.br
 domain:megapornpics.com
 domain:megaproxy.com
+domain:megas4.com
 domain:megasrv.de
 domain:megatitsminka.com
 domain:megogo.net
@@ -22677,6 +22680,7 @@ domain:trans500.com
 domain:transangels.com
 domain:transarmuito.com
 domain:transcamslive.com
+domain:transfer.it
 domain:transferwise.com
 domain:translate.goog
 domain:translatetheweb.com
