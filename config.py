@@ -32,6 +32,7 @@ url_proxy = {
     "proxy_Loyalsoldier_greatfire.txt"  : "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/greatfire.txt"
 }
 url_direct = {
+    "direct_heidai_direct-custom.txt"                   : "https://raw.githubusercontent.com/217heidai/RoutingRules/main/custom/direct_custom.txt",
     "direct_Loyalsoldier_direct-list.txt"               : "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt",
     "direct_Loyalsoldier_apple-cn.txt"                  : "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/apple-cn.txt",
     "direct_blackmatrix7_SteamCN.list"                  : "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/SteamCN/SteamCN.list",
