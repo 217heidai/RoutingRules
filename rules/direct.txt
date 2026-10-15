@@ -24967,6 +24967,7 @@ domain:coreldrawchina.com
 domain:coremakingsolutions.com
 domain:corerain.com
 domain:corex-design.com
+domain:corexpertdata.com
 domain:coreyun.net
 domain:corgichina.com
 domain:corlercar888.com
@@ -82169,6 +82170,7 @@ domain:siranbio.com
 domain:sireda.com
 domain:sirenyouxiang.com
 domain:sirfang.com
+domain:siriser.com
 domain:sirweara.com
 domain:siryin.com
 domain:siscantech.com
@@ -82565,6 +82567,7 @@ domain:sljob88.com
 domain:slk1.net
 domain:slkg1949.com
 domain:sllai.com
+domain:slldbs641.vip
 domain:sllngy.com
 domain:sllssrq.com
 domain:slodon.net
