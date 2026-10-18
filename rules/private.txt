@@ -3,6 +3,8 @@ full:instant.arubanetworks.com
 full:setmeup.arubanetworks.com
 full:router.asus.com
 full:oasisauth.h3c.com
+full:localhost.weixin.qq.com
+full:localhost.work.weixin.qq.com
 domain:1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 domain:10.in-addr.arpa
 domain:100.100.in-addr.arpa
