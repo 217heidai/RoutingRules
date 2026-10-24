@@ -13485,6 +13485,7 @@ domain:jsbridgestone.com
 domain:jsdelivr.com
 domain:jsdelivr.net
 domain:fiddle.jshell.net
+domain:ga.jspm.io
 domain:jstage.jst.go.jp
 domain:jstor.org
 domain:jstv51.com
