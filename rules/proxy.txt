@@ -129,6 +129,7 @@ domain:11jav.com
 domain:123-hp.com
 domain:123av.com
 domain:123av.me
+domain:123av.org
 domain:123bin.cc
 domain:123dapp.com
 domain:123dappipad.com
@@ -269,6 +270,7 @@ domain:1password.ca
 domain:1password.co
 domain:1password.com
 domain:1password.community
+domain:1password.dev
 domain:1password.eu
 domain:1password.io
 domain:1passwordservices.com
@@ -5232,6 +5234,10 @@ domain:cdnxxx-proxy.xyz
 domain:cdp1998.org
 domain:cdp2006.org
 domain:cdpeu.org
+domain:cdpred.services
+domain:cdprojekt.com
+domain:cdprojekt.red
+domain:cdprojektred.com
 domain:cdpuk.co.uk
 domain:cdpweb.org
 domain:cdpwu.org
@@ -6260,6 +6266,7 @@ domain:cybercrimecon.com
 domain:forum.cyberctm.com
 domain:cyberghostvpn.com
 domain:cybermondaybeats4sale.com
+domain:cyberpunk.net
 domain:cybersport.ru
 domain:cybertrust.co.jp
 domain:cybertrust.ne.jp
@@ -13748,6 +13755,7 @@ domain:kilmeadeandfriends.com
 domain:kimchi.tv
 domain:kimi.ai
 domain:kimogirl.cc
+domain:kimootoko.net
 domain:kimosex.com
 domain:kindgirls.com
 domain:kindindianporn.com
@@ -15606,6 +15614,7 @@ domain:miniwidget.ca
 domain:miniwindsor.com
 domain:miniworkshop.com
 domain:miniyaletown.ca
+domain:minkch.com
 domain:minnano-av.com
 domain:minne.com
 domain:minneapolisbmw.com
@@ -16995,6 +17004,7 @@ domain:nixos.wiki
 domain:nixpkgs.org
 domain:niziero.info
 domain:njactb.org
+domain:njav.com
 domain:njav.tv
 domain:njavtv.com
 domain:njpw.co.jp
@@ -18437,6 +18447,7 @@ domain:playfab.com
 domain:playfabapi.com
 domain:playfamily.ru
 domain:playforceone.com
+domain:playgwent.com
 domain:playhearthstone.com
 domain:playmation.com
 domain:playmeow.com
@@ -18485,6 +18496,7 @@ domain:pmatehunter.com
 domain:pmem.org
 domain:pmem.us
 domain:pnas.org
+domain:po-kaki-to.com
 domain:po2b.com
 domain:pobeda.page
 domain:pobl-content.com
@@ -22411,6 +22423,7 @@ domain:theweek.com
 domain:theweek.in
 domain:thewgo.org
 domain:thewirechina.com
+domain:thewitcher.com
 domain:thewonderful101.com
 domain:theync.com
 domain:theyxxx.com
@@ -25369,14 +25382,14 @@ domain:xn--d1acpjx3f.xn--p1ai
 domain:xn--d4ty0ojsqzfd.com
 domain:xn--e1adjldbbpv.xn--90ais
 domain:xn--e1aigb.xn--p1ai
-domain:xn--fiqs8s1bxp3anr7a.hk
-domain:xn--fiqs8s1bxp3anr7a.xn--j6w193g
-domain:xn--fiqs8s1byzqyvl.hk
-domain:xn--fiqs8s1byzqyvl.xn--j6w193g
+domain:xn--fiq80y.hk
+domain:xn--fiq80y.xn--j6w193g
+domain:xn--fiq80y3xbiwr.hk
+domain:xn--fiq80y3xbiwr.xn--j6w193g
+domain:xn--fiq80y3xbiwrs0kiu9d.hk
+domain:xn--fiq80y3xbiwrs0kiu9d.xn--j6w193g
 domain:xn--fiqs8sxootzz.xn--hxt814e
 domain:xn--flw351e.com
-domain:xn--gdt08a.hk
-domain:xn--gdt08a.xn--j6w193g
 domain:xn--ggle-55da.com
 domain:xn--gmq348bujlxrb.com
 domain:xn--gmq92kd2rm1kx34a.com
@@ -25395,8 +25408,6 @@ domain:xn--kcrv3utim32hx9f6qe.com
 domain:xn--kput3imi374g.xn--hxt814e
 domain:xn--mts47c3w9b1qr.net
 domain:xn--mtswd61ejxq.com
-domain:xn--mxtq18a.hk
-domain:xn--mxtq18a.xn--j6w193g
 domain:xn--ngstr-lra8j.com
 domain:xn--noss43i.com
 domain:xn--oiq.cc
@@ -25404,14 +25415,10 @@ domain:xn--p8j9a0d9c9a.xn--q9jyb4c
 domain:xn--pearsonenespaol-brb.com
 domain:xn--pssu7ci2j23mp9ny48b.hk
 domain:xn--pssu7ci2j23mp9ny48b.xn--j6w193g
-domain:xn--pssu7cv61af1tcs59bnvd.hk
-domain:xn--pssu7cv61af1tcs59bnvd.xn--j6w193g
+domain:xn--pssu7ci3q5oge0ai91q.xn--j6w193g
 domain:xn--pssu7cv61af44b.hk
 domain:xn--pssu7cv61af44b.xn--j6w193g
-domain:xn--pssu7cv61ahw8aq79bztd.hk
-domain:xn--pssu7cv61ahw8aq79bztd.xn--j6w193g
-domain:xn--pssu7cv61ahwcb1p2yk.hk
-domain:xn--pssu7cv61ahwcb1p2yk.xn--j6w193g
+domain:xn--pssu7cz8nr8ibkx1e8a.xn--j6w193g
 domain:xn--q41am8x.com
 domain:xn--qoq462m.com
 domain:xn--r8jwklh769h2mc880dk1o431a.com
@@ -25426,11 +25433,7 @@ domain:xn--uis17aj9kmuf.com
 domain:xn--uis44a.xn--j6w193g
 domain:xn--urs05q.jp
 domain:xn--vuqv2cf7wzyig79c.com
-domain:xn--wcv22d.hk
-domain:xn--wcv22d.xn--j6w193g
 domain:xn--wcvs22d.xn--j6w193g
-domain:xn--wcvs22d1m.hk
-domain:xn--wcvs22d1m.xn--j6w193g
 domain:xn--x-qeu1ji09tzlg.biz
 domain:xn--x-qeu1ji09tzlg.net
 domain:xn--xsq421m.com
@@ -26532,6 +26535,7 @@ domain:zorglist.com
 domain:zorrovpn.com
 domain:zotero.org
 domain:zozotown.com
+domain:zozovideo.com
 domain:zpagov.net
 domain:zpath.com
 domain:zpn.im
