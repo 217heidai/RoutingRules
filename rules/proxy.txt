@@ -855,6 +855,7 @@ domain:addthis.com
 domain:addthiscdn.com
 domain:addthisedge.com
 domain:addtoany.com
+domain:addtodropbox.com
 domain:addyoutube.com
 domain:adelaidenow.com.au
 domain:adgoogle.net
@@ -1576,7 +1577,6 @@ domain:alpherafs.com.my
 domain:alpherafs.ie
 domain:alpherafs.in
 domain:alpherafs.my
-domain:test-ipv6.alpinedc.ch
 domain:alpinelinux.org
 domain:alt.com
 domain:altera.co.jp
@@ -2325,7 +2325,6 @@ domain:arabysexy.com
 domain:arabysexy.mobi
 domain:ipfs.eth.aragon.network
 domain:aranzadi.es
-domain:test-ipv6.arauc.br
 domain:arcadewank.com
 domain:arcgis.com
 domain:arcgisonline.com
@@ -3462,7 +3461,6 @@ domain:bellesa.co
 domain:bellingcat.com
 domain:bellotube.com
 domain:bellsouth.net
-domain:test-ipv6.belwue.net
 domain:benaughty.fun
 domain:benefitsforeveryworld.com
 domain:bengalisexvideos.com
@@ -5078,7 +5076,6 @@ domain:cargigileads.com
 domain:cari.com.my
 domain:caribbeancom.com
 domain:caribbeancompr.com
-domain:test-ipv6.carnet.hr
 domain:carousell.com.hk
 domain:carrd.co
 domain:carrot-mail.io
@@ -6379,6 +6376,7 @@ domain:darwinsource.com
 domain:darwinsource.org
 domain:darwinsourcecode.com
 domain:dasaob.online
+domain:dash.ai
 domain:dashlane.com
 domain:dashly.app
 domain:dashly.help
@@ -7128,6 +7126,7 @@ domain:docs.com
 domain:docs.new
 domain:docs.rs
 domain:docs.rw
+domain:docsend.com
 domain:doctor-videos.com
 domain:documentforce.com
 domain:documentingreality.com
@@ -7321,12 +7320,15 @@ domain:dropbox.tech
 domain:dropboxapi.com
 domain:dropboxbusiness.com
 domain:dropboxcaptcha.com
+domain:dropboxexperiment.com
 domain:dropboxforum.com
 domain:dropboxforums.com
 domain:dropboxinsiders.com
+domain:dropboxlegal.com
 domain:dropboxmail.com
 domain:dropboxpartners.com
 domain:dropboxstatic.com
+domain:dropboxteam.com
 domain:dropboxusercontent.com
 domain:drpc.org
 domain:drtuber.com
@@ -8002,7 +8004,6 @@ domain:envycdp.ru
 domain:envycrm.com
 domain:envyday.ru
 domain:eotarchive.org
-domain:test-ipv6.epic.network
 domain:epicbrowser.com
 domain:epicevents.gg
 domain:epicgames.com
@@ -9394,7 +9395,6 @@ domain:francecasquebeatssolde.com
 domain:francemail.com
 domain:frank2019.me
 domain:franklc.com
-domain:test-ipv6.fratec.net
 domain:frcasquesbeats.com
 domain:freakshare.com
 domain:free-3d-porn.com
@@ -9476,7 +9476,6 @@ domain:freeporno.asia
 domain:freepornpreview.net
 domain:freepornq.com
 domain:freepornvideos.life
-domain:test-ipv6.freerangecloud.com
 domain:www.zensur.freerk.com
 domain:freesexalbum.com
 domain:freesexgames.games
@@ -10259,7 +10258,6 @@ domain:go.dev
 domain:go141.com
 domain:go2av.com
 domain:go5.dev
-domain:test-ipv6.go6.si
 domain:goagent.biz
 domain:gobeatsye.com
 domain:gobianywhere.com
@@ -11063,9 +11061,11 @@ domain:heise360182.buzz
 domain:helixstudios.net
 domain:helloandroid.com
 domain:helloavgirls.com
+domain:hellofax.com
 domain:hellokittybeats.com
 domain:hellomoto.com
 domain:helloqueer.com
+domain:hellosign.com
 domain:hellosmartbook.com
 domain:hellporno.com
 domain:hellven.net
@@ -13061,7 +13061,6 @@ domain:itunesstore.co
 domain:itunesu.com
 domain:itunesu.net
 domain:itweet.net
-domain:test-ipv6.iu13.net
 domain:iuhrdf.org
 domain:ius.io
 domain:iutunes.com
@@ -14142,6 +14141,7 @@ domain:library.lol
 domain:librarylovefest.com
 domain:libraryofthumbs.com
 domain:libredd.it
+domain:librewolf.dev
 domain:librewolf.net
 domain:libsolutions.app
 domain:libsolutions.domains
@@ -14230,7 +14230,6 @@ domain:linuxfromscratch.org
 domain:linuxmint.com
 domain:lionhearts.co.kr
 domain:liquiditytp.com
-domain:test-ipv6.ke.liquidtelecom.net
 domain:liquidvpn.com
 domain:lisiku.com
 domain:lisiku1.com
@@ -17054,7 +17053,6 @@ domain:nordstromimage.com
 domain:nordstrommedia.com
 domain:nordstromrack.com
 domain:nordvpn.com
-domain:test-ipv6.noroutetohost.net
 domain:norsk.mobi
 domain:norton.com
 domain:norvikbank.ru
@@ -19856,7 +19854,6 @@ domain:rockstargames.com
 domain:rockstarnorth.com
 domain:rockylinux.org
 domain:rocmgov.org
-domain:test-ipv6.roedu.net
 domain:rojo.com
 domain:roku.com
 domain:rokutime.com
@@ -20933,7 +20930,6 @@ domain:sites.new
 domain:situero.com
 domain:six-degrees.io
 domain:six9dy.pw
-domain:sixte.st
 domain:sjcollect.com
 domain:sjhsp1.buzz
 domain:skate2.com
@@ -22220,13 +22216,6 @@ domain:tesla.services
 domain:teslaenergy.services
 domain:teslamotors.com
 domain:teslazta.net
-domain:test-ipv6.cl
-domain:test-ipv6.com
-domain:test-ipv6.cz
-domain:test-ipv6.hu
-domain:test-ipv6.is
-domain:test-ipv6.se
-domain:testipv6.de
 domain:testonfox.com
 domain:tetrika-school.ru
 domain:tettediferro.it
@@ -22953,7 +22942,6 @@ domain:tsyum.com
 domain:tt1069.com
 domain:ttcdn-us.com
 domain:tteshop.com
-domain:test-ipv6.ttk.ru
 domain:ttl.com.tw
 domain:ttlivecdn.com
 domain:ttoverseaus.net
@@ -23311,7 +23299,6 @@ domain:umagazine.com.hk
 domain:umass.edu
 domain:umbank.ru
 domain:umbrella.com
-domain:test-ipv6.cs.umd.edu
 domain:umschool.net
 domain:umsoplaneta.com
 domain:umsoplaneta.com.br
@@ -23471,7 +23458,6 @@ domain:uux68.com
 domain:uverse.com
 domain:uvwxyz.xyz
 domain:uwants.com
-domain:test-ipv6.csclub.uwaterloo.ca
 domain:uweb.ru
 domain:uwpcommunitytoolkit.com
 domain:uxthemes.com
@@ -24401,7 +24387,6 @@ domain:vpro.com
 domain:vpro.net
 domain:vps.hosting
 domain:vpsxb.net
-domain:test-ipv6.sin.vr.org
 domain:vrbgay.com
 domain:vrcams.io
 domain:vrcdn.cloud
