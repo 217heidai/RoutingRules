@@ -24,6 +24,7 @@ full:utcnist2.colorado.edu
 full:utcnist3.colorado.edu
 full:cdn-spotify-experiments.conductrics.com
 full:hpstore.corpmerchandise.com
+full:http-intake.logs.us5.datadoghq.com
 full:rss.datuan.dev
 full:1password.drift.click
 full:rsshub.email-once.com
@@ -10738,6 +10739,7 @@ domain:greginhollywood.com
 domain:gridaware.app
 domain:grindr.com
 domain:grok.com
+domain:grokbot.com
 domain:grokipedia.com
 domain:grooby.com
 domain:groq.com
