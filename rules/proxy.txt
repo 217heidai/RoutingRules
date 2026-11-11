@@ -10687,6 +10687,8 @@ domain:grabhentai.com
 domain:grabpussy.com
 domain:hk.gradconnection.com
 domain:gradeuptube.com
+domain:grafana.com
+domain:grafana.net
 domain:grafolio.com
 domain:graias.com
 domain:graiasmovies.com
@@ -19343,6 +19345,7 @@ domain:quantil.com
 domain:quatrowireless.com
 domain:quatrum.com.br
 domain:quay.io
+domain:questionablequesting.com
 domain:questvisual.com
 domain:quicinc.com
 domain:quickbook.com.br
@@ -21334,6 +21337,7 @@ domain:soyjak.party
 domain:soyjak.st
 domain:blog.soylent.com
 domain:sp.cool
+domain:spacebattles.com
 domain:spaceexplored.com
 domain:spaceforce.mil
 domain:spacely.com.au
@@ -23507,6 +23511,7 @@ domain:v.gd
 domain:v.ps
 domain:v.recipes
 domain:v2.help
+domain:v2ex.co
 domain:v2ex.com
 domain:v2fly.org
 domain:v2ph.com
