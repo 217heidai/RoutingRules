@@ -10143,6 +10143,7 @@ domain:adpchina.com
 domain:adpfm513.com
 domain:adplusx.com
 domain:adpsh.com
+domain:adqiyu.com
 domain:adqtt.net
 domain:adquan.com
 domain:adrkwai.com
