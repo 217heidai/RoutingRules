@@ -4550,6 +4550,7 @@ domain:bravoporn.com
 domain:bravoteens.com
 domain:bravotube.net
 domain:bravotube.tv
+domain:bravotv.com
 domain:brawlstars.com
 domain:brawlstarsgame.com
 domain:brazilpartneruniversity.com
@@ -5755,6 +5756,7 @@ domain:cn-proxy.com
 domain:unblock.cn.com
 domain:cna.com.tw
 domain:cnbc.com
+domain:cnbccouncils.com
 domain:cnbcfm.com
 domain:cnbeta.com
 domain:cnbeta.com.tw
@@ -8658,6 +8660,7 @@ domain:fantasti.cc
 domain:fantom.foundation
 domain:fantom.network
 domain:fantv.hk
+domain:fanza.jp
 domain:fap-xxx.com
 domain:fap18.net
 domain:fap666.com
@@ -9113,6 +9116,7 @@ domain:fnlondon.com
 domain:fnmt.es
 domain:foampositeshoes.com
 domain:fochk.org
+domain:focusfeatures.com
 domain:focustaiwan.tw
 domain:fofg.org
 domain:foftolia.com
@@ -10902,6 +10906,7 @@ domain:hayabusa.io
 domain:hayabusa.media
 domain:hayday.com
 domain:haydaygame.com
+domain:hayu.com
 domain:hayya.ae
 domain:hbabit.com
 domain:hbfile.net
@@ -12252,6 +12257,7 @@ domain:ilife.gr
 domain:ilife.wang
 domain:illawarramercury.com.au
 domain:illgames.jp
+domain:illumination.com
 domain:illusion111.com
 domain:illusionas.com
 domain:illusionchn.com
@@ -16013,7 +16019,6 @@ domain:msinnovationchallenge.com
 domain:ssb.msk.ru
 domain:msn.com
 domain:msn.net
-domain:msnbc.com
 domain:msnewskids.com
 domain:msnewskids.net
 domain:msnewskids.org
@@ -16421,8 +16426,11 @@ domain:nbcnews.com
 domain:nbcolympics.com
 domain:nbcsports.com
 domain:nbcudigitaladops.com
+domain:nbcumv.com
 domain:nbcuni.com
+domain:nbcunicareers.com
 domain:nbcuniversal.com
+domain:nbcuniversalprivacy.com
 domain:nbdh15.buzz
 domain:nbtvpn.com
 domain:nbys.tv
@@ -19645,6 +19653,7 @@ domain:rentry.co
 domain:renyurenquan.org
 domain:renzhe.cloud
 domain:repe21.com
+domain:replit.com
 domain:repo.new
 domain:report-megafon.ru
 domain:repotama.com
@@ -22104,6 +22113,7 @@ domain:telegram.space
 domain:telegramdownload.com
 domain:telekom.com
 domain:telekom.de
+domain:telemundo.com
 domain:telerik.com
 domain:telesco.pe
 domain:telesec.de
@@ -22701,6 +22711,7 @@ domain:torrentprivacy.com
 domain:torrentproject.se
 domain:torrenty.org
 domain:torrindex.net
+domain:tortoisegit.org
 domain:tortoisesvn.net
 domain:torvpn.com
 domain:tospo-keiba.jp
@@ -23191,6 +23202,7 @@ domain:udndata.com
 domain:udnfunlife.com
 domain:udomain.hk
 domain:udtrucksmeena.com
+domain:udxfpp.com
 domain:ueberamazon.de
 domain:ntp.ufe.cz
 domain:uflash.tv
@@ -23268,11 +23280,18 @@ domain:uniswap.org
 domain:united.ru
 domain:unity.com
 domain:unity3d.com
+domain:universalbeijingresort.com
+domain:universalhorrorunleashed.com
+domain:universalkidsresort.com
 domain:universalorlando.com
+domain:universalpictures.co.uk
 domain:universalpictures.com
+domain:universalpicturesathome.com
 domain:universalpicturesinternational.com
+domain:universalproductsexperiences.com
 domain:universalscalablefirmware.org
 domain:universalstudioshollywood.com
+domain:universalukproject.co.uk
 domain:universitypressscholarship.com
 domain:unknownspace.org
 domain:unkoscene.com
@@ -23301,6 +23320,7 @@ domain:updatetube.com
 domain:upfrontcfd.com
 domain:upfrontfea.com
 domain:upghsbc.com
+domain:uphe.com
 domain:upholdjustice.org
 domain:upjav.cc
 domain:uplay-istrip.com
@@ -23353,6 +23373,7 @@ domain:userpxt.io
 domain:usersdrive.com
 domain:usertrust.com
 domain:usfk.mil
+domain:usj.co.jp
 domain:usma.edu
 domain:usocial.pro
 domain:tarr.uspto.gov
