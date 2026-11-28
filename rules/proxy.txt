@@ -47,6 +47,7 @@ full:muse.jhu.edu
 full:cdn.js7k.com
 full:faronics.kayako.com
 full:rsshub.ktachibana.party
+full:aurora-customization-usw2.lithium.com
 full:rss.littlebaby.life
 full:elib.maruzen.co.jp
 full:courses.myecnu.org
@@ -1154,6 +1155,7 @@ domain:ai7995.site
 domain:ai91porn.cc
 domain:aiaa.org
 domain:aiasahi.jp
+domain:aicu.cc
 domain:aidc.com.tw
 domain:aihub.top
 domain:aimei133.com
@@ -6331,6 +6333,7 @@ domain:dandanplay.com
 domain:dandanplay.net
 domain:dandanzan.cc
 domain:danke4china.net
+domain:danmakus.com
 domain:danmarkbeatsbydrdre.com
 domain:danskpornofilm.com
 domain:dansmovies.com
@@ -8789,6 +8792,7 @@ domain:fc2ppv.tv
 domain:uygur.fc2web.com
 domain:fcacebook.com
 domain:fcaebook.com
+domain:fce.gg
 domain:fcebook.com
 domain:fcebookk.com
 domain:fcfacebook.com
@@ -21270,6 +21274,7 @@ domain:soyjak.st
 domain:blog.soylent.com
 domain:sp.cool
 domain:spacebattles.com
+domain:spacedesk.net
 domain:spaceexplored.com
 domain:spaceforce.mil
 domain:spacely.com.au
